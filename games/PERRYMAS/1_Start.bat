@@ -1,0 +1,3 @@
+cd pmason
+crack
+pmn

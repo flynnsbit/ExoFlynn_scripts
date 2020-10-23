@@ -1,0 +1,2 @@
+cd DDAgency
+call dino

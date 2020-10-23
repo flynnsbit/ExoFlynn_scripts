@@ -1,0 +1,2 @@
+cd LabyroLi
+call lab

@@ -1,0 +1,2 @@
+cd HOMEY
+call run

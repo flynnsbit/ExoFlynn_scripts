@@ -1,0 +1,2 @@
+cd FoxRange
+call fr

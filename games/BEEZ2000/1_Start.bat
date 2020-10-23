@@ -1,0 +1,2 @@
+cd Beez
+call run

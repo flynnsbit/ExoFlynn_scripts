@@ -1,0 +1,2 @@
+cd MachNati
+call run

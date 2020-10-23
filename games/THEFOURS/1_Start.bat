@@ -1,0 +1,2 @@
+cd FourSymb
+symsamp

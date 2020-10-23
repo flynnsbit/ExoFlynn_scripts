@@ -1,0 +1,2 @@
+cd TinyTris
+tinytris

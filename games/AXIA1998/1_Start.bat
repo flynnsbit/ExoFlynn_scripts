@@ -1,0 +1,2 @@
+cd Axia
+axia

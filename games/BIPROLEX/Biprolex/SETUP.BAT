@@ -1,0 +1,2 @@
+@BIPLUS.EXE . -c
+@SETSOUND.EXE

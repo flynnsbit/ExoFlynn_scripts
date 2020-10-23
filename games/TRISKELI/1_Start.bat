@@ -1,0 +1,2 @@
+cd Triskel
+trisk

@@ -1,0 +1,2 @@
+cd CosmicSh
+call cosmic

@@ -1,0 +1,2 @@
+cd Squares
+squares

@@ -1,0 +1,2 @@
+cd loopz
+call run

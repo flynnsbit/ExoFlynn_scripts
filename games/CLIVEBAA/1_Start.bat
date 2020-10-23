@@ -1,0 +1,2 @@
+cd nitebred
+call run

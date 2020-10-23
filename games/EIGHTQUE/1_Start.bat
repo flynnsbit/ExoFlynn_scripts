@@ -1,0 +1,2 @@
+cd 8queens
+PASRUN QUEENS-D

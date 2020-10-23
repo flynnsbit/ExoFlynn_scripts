@@ -1,0 +1,2 @@
+cd C:\BCRUIS3K
+bc3000ad

@@ -1,0 +1,2 @@
+cd SpacCutt
+CUTTER.EXE

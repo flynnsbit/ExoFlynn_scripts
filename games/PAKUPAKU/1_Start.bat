@@ -1,0 +1,2 @@
+cd PakuPak
+call run

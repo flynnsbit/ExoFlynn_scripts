@@ -1,0 +1,2 @@
+cd DOKAPinb
+call pin

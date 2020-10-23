@@ -1,0 +1,2 @@
+cd rockstar
+rockstar

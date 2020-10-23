@@ -1,0 +1,2 @@
+cd PinocleG
+PINOCLE

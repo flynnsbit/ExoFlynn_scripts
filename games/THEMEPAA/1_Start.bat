@@ -1,0 +1,2 @@
+cd thempamy
+tpark

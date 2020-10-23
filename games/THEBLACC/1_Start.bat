@@ -1,0 +1,2 @@
+cd blaksanc
+sanctum

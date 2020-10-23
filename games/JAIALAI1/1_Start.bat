@@ -1,0 +1,2 @@
+cd jaialai
+jai.exe

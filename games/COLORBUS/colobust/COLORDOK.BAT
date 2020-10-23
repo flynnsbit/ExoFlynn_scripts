@@ -1,0 +1,2 @@
+cd \CBUSTER
+more < CBUSTER.DOC

@@ -1,0 +1,2 @@
+cd TheGloba
+call gb

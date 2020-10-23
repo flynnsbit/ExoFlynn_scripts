@@ -1,0 +1,5 @@
+@ECHO OFF
+PROMPT $p$g
+PATH=C:\DOS;C:\
+A:\MOUSE.COM
+echo.

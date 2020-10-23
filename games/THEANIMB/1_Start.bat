@@ -1,0 +1,2 @@
+cd tasvgamg
+call AMEMV

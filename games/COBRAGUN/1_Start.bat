@@ -1,0 +1,2 @@
+cd CobrGuns
+gundos

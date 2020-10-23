@@ -1,0 +1,2 @@
+cd SeaHunt
+seahunt

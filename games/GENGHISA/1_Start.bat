@@ -1,0 +1,2 @@
+cd ghenkhan
+call disco

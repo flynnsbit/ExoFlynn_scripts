@@ -1,0 +1,2 @@
+cd AdvML
+magic

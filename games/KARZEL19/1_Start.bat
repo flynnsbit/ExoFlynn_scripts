@@ -1,0 +1,2 @@
+cd Karzel
+karzel

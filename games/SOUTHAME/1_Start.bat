@@ -1,0 +1,2 @@
+cd SAmTrek
+samerica

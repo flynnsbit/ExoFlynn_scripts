@@ -1,0 +1,2 @@
+cd TreasSav
+call run

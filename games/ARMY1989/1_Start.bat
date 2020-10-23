@@ -1,0 +1,3 @@
+cd Army
+MRESET
+army

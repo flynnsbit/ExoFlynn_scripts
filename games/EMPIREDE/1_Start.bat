@@ -1,0 +1,2 @@
+cd empidlx
+call run

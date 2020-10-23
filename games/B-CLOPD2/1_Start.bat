@@ -1,0 +1,2 @@
+cd Bclopd
+call run

@@ -1,0 +1,2 @@
+cd BouncyBe
+call autoexec

@@ -1,0 +1,2 @@
+cd ArcadeFr
+arcade

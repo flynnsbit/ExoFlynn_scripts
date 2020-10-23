@@ -1,0 +1,2 @@
+cd rimtrix
+rimtrix

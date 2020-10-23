@@ -1,0 +1,2 @@
+cd TheThorT
+call run

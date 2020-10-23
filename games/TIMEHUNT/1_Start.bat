@@ -1,0 +1,2 @@
+cd TimeHunt
+START.BAT

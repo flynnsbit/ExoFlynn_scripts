@@ -1,0 +1,2 @@
+cd Minotavr
+MINOTAVR.EXE

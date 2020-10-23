@@ -1,0 +1,2 @@
+cd gateway
+call run

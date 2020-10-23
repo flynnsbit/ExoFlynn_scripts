@@ -1,0 +1,2 @@
+cd romdome
+dome

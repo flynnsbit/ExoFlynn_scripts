@@ -1,0 +1,2 @@
+cd SilMasBl
+PINBALL.EXE

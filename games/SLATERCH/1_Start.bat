@@ -1,0 +1,2 @@
+cd SlaterCh
+call run

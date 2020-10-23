@@ -1,0 +1,2 @@
+cd Epic
+call run

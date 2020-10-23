@@ -1,0 +1,2 @@
+cd shadfor
+call sforce

@@ -1,0 +1,2 @@
+cd SuperC
+call go

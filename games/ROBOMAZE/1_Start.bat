@@ -1,0 +1,2 @@
+cd RoboMaze
+call run

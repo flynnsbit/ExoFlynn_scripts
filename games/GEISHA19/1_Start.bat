@@ -1,0 +1,2 @@
+cd geisha
+call go

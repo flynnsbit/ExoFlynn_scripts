@@ -1,0 +1,12 @@
+@ECHO OFF
+if '%7'=='ABadMove' goto error
+instmen
+if not exist install.bat goto error
+
+install well that was going to be ABadMove
+:error
+echo	REACH FOR THE SKIES HAS NOT BEEN INSTALLED ON YOUR HARD DISK
+echo	PERHAPS THE TARGET DRIVE DOES NOT EXIST, OR IS WRITE PROTECTED.
+echo	UP TO 3MB OF DISK SPACE IS REQUIRED FOR 256 COLOUR VERSION,
+echo	UP TO 1.6MB IS REQUIRED FOR OTHER VERSIONS.
+

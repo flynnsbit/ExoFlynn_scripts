@@ -1,0 +1,2 @@
+cd BeerTriv
+beertriv /L

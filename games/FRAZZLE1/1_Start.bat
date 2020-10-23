@@ -1,0 +1,2 @@
+cd Frazzle
+frazzle

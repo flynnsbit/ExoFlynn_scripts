@@ -1,0 +1,2 @@
+cd conqking
+call start

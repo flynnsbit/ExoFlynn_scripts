@@ -1,0 +1,2 @@
+VOODOO.EXE
+exit

@@ -1,0 +1,2 @@
+cd IfItMove
+call shoot

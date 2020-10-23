@@ -1,0 +1,2 @@
+@config.exe
+@draks.exe

@@ -1,0 +1,3 @@
+cd cubulus
+show
+game

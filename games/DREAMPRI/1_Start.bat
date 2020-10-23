@@ -1,0 +1,2 @@
+cd dreampri
+call go

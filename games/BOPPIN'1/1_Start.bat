@@ -1,0 +1,2 @@
+cd boppin
+call run

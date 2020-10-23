@@ -1,0 +1,2 @@
+cd clokwise
+call clock

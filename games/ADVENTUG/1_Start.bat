@@ -1,0 +1,2 @@
+cd AdvMath
+amath

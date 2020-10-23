@@ -1,0 +1,2 @@
+cd PCTris
+dnpctris -svga

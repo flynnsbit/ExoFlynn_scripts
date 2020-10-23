@@ -1,0 +1,2 @@
+cd ess
+call go

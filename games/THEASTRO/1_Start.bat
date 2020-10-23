@@ -1,0 +1,2 @@
+cd TheAstro
+call astro

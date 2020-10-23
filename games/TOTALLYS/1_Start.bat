@@ -1,0 +1,2 @@
+cd totasmas
+smashed.exe

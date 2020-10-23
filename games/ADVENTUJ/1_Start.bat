@@ -1,0 +1,2 @@
+cd Adventur
+call run

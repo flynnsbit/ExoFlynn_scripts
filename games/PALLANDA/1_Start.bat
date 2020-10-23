@@ -1,0 +1,2 @@
+cd Pallanda
+PALLANDA

@@ -1,0 +1,1 @@
+SET DIGGERS=c:\diggers

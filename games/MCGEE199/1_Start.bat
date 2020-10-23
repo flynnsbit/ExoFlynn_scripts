@@ -1,0 +1,2 @@
+cd McGee
+call mcgee

@@ -1,0 +1,2 @@
+cd ADestiny
+call run

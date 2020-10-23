@@ -1,0 +1,2 @@
+cd Snake
+snake

@@ -1,0 +1,2 @@
+cd WolfDoom
+wolfdoom

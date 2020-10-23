@@ -1,0 +1,2 @@
+cd TTT02
+TICTACTO

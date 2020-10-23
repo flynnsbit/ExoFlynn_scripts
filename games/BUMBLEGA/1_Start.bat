@@ -1,0 +1,2 @@
+cd BumbleGa
+call bumble

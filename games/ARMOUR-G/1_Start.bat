@@ -1,0 +1,2 @@
+cd armogedd
+call run

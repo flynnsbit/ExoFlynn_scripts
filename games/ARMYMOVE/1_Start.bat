@@ -1,0 +1,2 @@
+cd ArmyMove
+call DINAMIC

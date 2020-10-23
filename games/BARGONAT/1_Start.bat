@@ -1,0 +1,2 @@
+cd bargon
+call go

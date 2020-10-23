@@ -1,0 +1,1 @@
+7cities.exe -a

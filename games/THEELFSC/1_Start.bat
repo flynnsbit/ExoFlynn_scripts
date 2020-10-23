@@ -1,0 +1,2 @@
+cd ElfsChri
+call elf

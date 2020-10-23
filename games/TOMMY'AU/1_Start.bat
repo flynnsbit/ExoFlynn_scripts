@@ -1,0 +1,2 @@
+cd TOldMaid
+oldmaid

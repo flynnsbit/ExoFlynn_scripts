@@ -1,0 +1,2 @@
+cd DefFree
+call run

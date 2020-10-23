@@ -1,0 +1,3 @@
+@ECHO OFF
+MODE 80
+CLS

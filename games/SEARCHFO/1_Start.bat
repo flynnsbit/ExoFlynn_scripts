@@ -1,0 +1,2 @@
+cd Searchfo
+call st

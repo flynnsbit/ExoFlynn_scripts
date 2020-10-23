@@ -1,0 +1,2 @@
+cd thehulk
+call hulk

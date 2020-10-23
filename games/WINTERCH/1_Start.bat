@@ -1,0 +1,2 @@
+cd WinterCh
+call start

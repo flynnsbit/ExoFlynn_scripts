@@ -1,0 +1,2 @@
+cd Shortlin
+SL.EXE

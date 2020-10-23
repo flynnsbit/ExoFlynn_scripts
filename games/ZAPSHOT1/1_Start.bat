@@ -1,0 +1,2 @@
+cd Zapshot
+call ZAPSHOT

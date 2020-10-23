@@ -1,0 +1,2 @@
+cd BRD
+call run

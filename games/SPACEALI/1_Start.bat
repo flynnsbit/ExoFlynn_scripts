@@ -1,0 +1,2 @@
+cd SALAMC
+call aliens

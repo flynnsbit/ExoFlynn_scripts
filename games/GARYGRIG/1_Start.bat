@@ -1,0 +1,2 @@
+cd ggrigpw
+call run

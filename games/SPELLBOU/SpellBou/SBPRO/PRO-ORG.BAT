@@ -1,0 +1,5 @@
+ECHO OFF
+CD PRO-ORG
+PRO-ORG
+CD..
+

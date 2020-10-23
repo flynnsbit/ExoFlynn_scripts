@@ -1,0 +1,2 @@
+cd GanjaFar
+call ganja

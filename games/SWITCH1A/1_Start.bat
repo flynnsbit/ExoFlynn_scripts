@@ -1,0 +1,2 @@
+cd Switch
+switch

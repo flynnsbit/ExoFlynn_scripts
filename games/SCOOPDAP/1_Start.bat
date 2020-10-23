@@ -1,0 +1,2 @@
+cd ScoopDP
+play reality

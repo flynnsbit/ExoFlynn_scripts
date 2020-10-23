@@ -1,0 +1,2 @@
+cd Wings99
+WINGS.EXE

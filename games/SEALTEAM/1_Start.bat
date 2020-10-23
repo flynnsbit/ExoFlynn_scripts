@@ -1,0 +1,2 @@
+cd SealTeam
+call run

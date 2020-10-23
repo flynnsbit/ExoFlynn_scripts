@@ -1,0 +1,2 @@
+cd MorafMJ
+mjskip

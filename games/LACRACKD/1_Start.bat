@@ -1,0 +1,2 @@
+cd lacrack
+lc

@@ -1,0 +1,2 @@
+cd Tronic
+tronic

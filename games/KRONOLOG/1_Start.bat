@@ -1,0 +1,2 @@
+cd kronolog
+call run

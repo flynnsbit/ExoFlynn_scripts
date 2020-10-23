@@ -1,0 +1,2 @@
+cd CaptainD
+dynamo

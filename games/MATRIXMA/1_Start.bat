@@ -1,0 +1,2 @@
+cd MatrixMa
+call madness

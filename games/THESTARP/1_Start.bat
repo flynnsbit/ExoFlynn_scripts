@@ -1,0 +1,2 @@
+cd starport
+call portal

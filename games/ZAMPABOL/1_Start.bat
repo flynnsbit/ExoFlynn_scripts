@@ -1,0 +1,2 @@
+cd Zampabol
+zampa

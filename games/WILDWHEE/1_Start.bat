@@ -1,0 +1,2 @@
+cd wildwls
+call run

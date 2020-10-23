@@ -1,0 +1,2 @@
+cd newyears
+sciv

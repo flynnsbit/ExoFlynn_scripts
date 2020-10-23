@@ -1,0 +1,2 @@
+cd genocide
+GENOCIDE.EXE

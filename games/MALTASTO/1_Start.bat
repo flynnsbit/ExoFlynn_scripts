@@ -1,0 +1,2 @@
+cd maltstor
+malta

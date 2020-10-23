@@ -1,0 +1,2 @@
+cd lovefire
+pinntale

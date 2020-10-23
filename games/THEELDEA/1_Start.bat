@@ -1,0 +1,2 @@
+cd ESdagger
+call run

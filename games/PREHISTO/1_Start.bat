@@ -1,0 +1,2 @@
+cd Prehisto
+call run

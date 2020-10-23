@@ -1,0 +1,2 @@
+cd XiYouJi
+call run

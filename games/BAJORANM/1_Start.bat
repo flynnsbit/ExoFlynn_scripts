@@ -1,0 +1,2 @@
+cd BajoranM
+call BAJORAN

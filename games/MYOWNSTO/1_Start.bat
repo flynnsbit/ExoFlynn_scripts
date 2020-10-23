@@ -1,0 +1,2 @@
+cd MyOwnSt
+call run

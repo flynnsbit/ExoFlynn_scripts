@@ -1,0 +1,2 @@
+cd CaveKroz
+call run

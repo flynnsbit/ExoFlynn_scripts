@@ -1,0 +1,2 @@
+cd Lightspe
+call run

@@ -1,0 +1,2 @@
+cd Motocros
+moto

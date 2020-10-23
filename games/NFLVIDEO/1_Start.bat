@@ -1,0 +1,2 @@
+cd NFLVideo
+call nfl

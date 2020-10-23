@@ -1,0 +1,2 @@
+cd lethalt
+call start

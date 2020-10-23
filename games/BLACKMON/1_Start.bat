@@ -1,0 +1,2 @@
+cd BlackMon
+call game

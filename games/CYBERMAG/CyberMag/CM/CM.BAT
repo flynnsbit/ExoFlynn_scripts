@@ -1,0 +1,2 @@
+@ECHO OFF
+CM_HI -h

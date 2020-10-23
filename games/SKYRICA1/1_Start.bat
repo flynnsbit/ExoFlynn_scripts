@@ -1,0 +1,2 @@
+cd SkyRica
+s&r

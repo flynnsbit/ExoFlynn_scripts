@@ -1,0 +1,2 @@
+cd MenInWar
+MW.EXE

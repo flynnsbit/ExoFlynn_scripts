@@ -1,0 +1,1 @@
+@hook.exe +A -J

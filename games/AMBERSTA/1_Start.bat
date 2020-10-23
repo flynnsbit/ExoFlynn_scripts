@@ -1,0 +1,2 @@
+cd ambrstar
+call run

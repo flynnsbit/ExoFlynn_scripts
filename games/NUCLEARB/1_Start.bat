@@ -1,0 +1,2 @@
+cd NukeBowl
+call bowls

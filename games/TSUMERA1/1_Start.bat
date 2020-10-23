@@ -1,0 +1,2 @@
+cd Tsumera
+tsumera

@@ -1,0 +1,2 @@
+cd dominium
+call run

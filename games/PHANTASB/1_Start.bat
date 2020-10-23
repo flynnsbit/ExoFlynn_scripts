@@ -1,0 +1,2 @@
+cd Phantasm
+call run

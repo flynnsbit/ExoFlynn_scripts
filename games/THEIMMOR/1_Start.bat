@@ -1,0 +1,2 @@
+cd timmorta
+call run

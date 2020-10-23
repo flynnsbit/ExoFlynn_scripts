@@ -1,0 +1,2 @@
+cd sleuthmu
+call SLEUTH

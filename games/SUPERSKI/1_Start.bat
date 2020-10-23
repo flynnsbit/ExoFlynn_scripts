@@ -1,0 +1,2 @@
+cd SperSki
+call SUPERSKI

@@ -1,0 +1,2 @@
+cd GameofRe
+call recovery

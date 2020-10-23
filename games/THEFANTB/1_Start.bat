@@ -1,0 +1,2 @@
+cd FantTamr
+tamrak

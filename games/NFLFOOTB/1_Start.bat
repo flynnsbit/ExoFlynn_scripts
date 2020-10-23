@@ -1,0 +1,2 @@
+cd NFL
+call run

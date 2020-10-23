@@ -1,0 +1,2 @@
+cd MordredM
+call mordred

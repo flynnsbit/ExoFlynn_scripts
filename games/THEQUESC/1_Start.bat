@@ -1,0 +1,2 @@
+cd tqkwirk
+kwirk

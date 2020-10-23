@@ -1,0 +1,2 @@
+@echo off
+MICKPVGA.EXE 1 1 544 7 0 0 0 0 0 0 0

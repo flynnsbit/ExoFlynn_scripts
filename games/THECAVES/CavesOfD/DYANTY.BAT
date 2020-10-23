@@ -1,0 +1,3 @@
+run dyanty
+pause
+cls

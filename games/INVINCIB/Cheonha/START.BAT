@@ -1,0 +1,6 @@
+@echo off
+fliplay box.fli
+echo Now Loading...
+demo
+echo Now Loading...
+cheunha

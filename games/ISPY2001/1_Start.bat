@@ -1,0 +1,2 @@
+cd ispy
+call run

@@ -1,0 +1,2 @@
+cd SelfCon
+sc.com

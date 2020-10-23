@@ -1,0 +1,2 @@
+cd StrShpAt
+call STARSHIP

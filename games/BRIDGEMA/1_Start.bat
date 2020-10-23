@@ -1,0 +1,2 @@
+cd bridgems
+call run

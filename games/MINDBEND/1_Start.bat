@@ -1,0 +1,2 @@
+cd Mindbend
+call mind

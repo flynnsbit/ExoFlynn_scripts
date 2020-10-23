@@ -1,0 +1,2 @@
+cd BrickDLX
+bricks

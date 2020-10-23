@@ -1,0 +1,2 @@
+cd chainrea
+chainr

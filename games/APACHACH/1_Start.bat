@@ -1,0 +1,2 @@
+cd Apachach
+call run

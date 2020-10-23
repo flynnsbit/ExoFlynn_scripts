@@ -1,0 +1,2 @@
+cd SokobaOs
+SOKOBALL.EXE

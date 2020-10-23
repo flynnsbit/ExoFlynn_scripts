@@ -1,0 +1,2 @@
+cd BRfFun
+call PINGU

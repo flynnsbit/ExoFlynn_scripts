@@ -1,0 +1,2 @@
+cd NumberF
+call fun

@@ -1,0 +1,2 @@
+cd dinoadv
+call dino

@@ -1,0 +1,2 @@
+cd beverly
+call run

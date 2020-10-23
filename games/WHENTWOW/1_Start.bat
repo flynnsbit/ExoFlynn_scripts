@@ -1,0 +1,2 @@
+cd WhenTwoW
+call run

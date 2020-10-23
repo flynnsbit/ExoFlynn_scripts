@@ -1,0 +1,2 @@
+cd BaldricO
+bdemo

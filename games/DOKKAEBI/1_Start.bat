@@ -1,0 +1,2 @@
+cd Dokkaebi
+call play

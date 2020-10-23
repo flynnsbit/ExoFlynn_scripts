@@ -1,0 +1,3 @@
+cd Chicken
+mreset
+chickens

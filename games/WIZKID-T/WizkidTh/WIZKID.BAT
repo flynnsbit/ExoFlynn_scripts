@@ -1,0 +1,2 @@
+C:\WIZKID\WIZKID.EXE %1 %2 %3 %4 %5
+

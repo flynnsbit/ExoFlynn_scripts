@@ -1,0 +1,2 @@
+cd wucsd
+call run

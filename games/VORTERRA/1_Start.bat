@@ -1,0 +1,2 @@
+cd VorTerra
+vor

@@ -1,0 +1,1 @@
+@zoomnew 1-tl 1-tr 1-bl 1-br -w175 -h109 -x34 -y35 %1

@@ -1,0 +1,2 @@
+cd tamg
+call amem

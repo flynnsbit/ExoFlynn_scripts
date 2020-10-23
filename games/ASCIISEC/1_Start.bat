@@ -1,0 +1,2 @@
+cd ascisec
+loadhigh asciisec

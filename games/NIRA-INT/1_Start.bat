@@ -1,0 +1,2 @@
+cd NIRA
+call run

@@ -1,0 +1,2 @@
+cd NuclearW
+nukewar

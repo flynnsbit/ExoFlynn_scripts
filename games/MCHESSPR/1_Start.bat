@@ -1,0 +1,2 @@
+cd MChessPr
+mcpro.com

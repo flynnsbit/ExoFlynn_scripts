@@ -1,0 +1,2 @@
+cd TheTreeh
+call run

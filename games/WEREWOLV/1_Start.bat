@@ -1,0 +1,2 @@
+cd WandW
+call WEREWAND

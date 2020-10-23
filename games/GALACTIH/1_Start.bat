@@ -1,0 +1,2 @@
+cd GalWR
+gwr

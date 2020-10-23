@@ -1,0 +1,2 @@
+cd PlsarFlx
+pulsar.exe

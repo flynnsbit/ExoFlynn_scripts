@@ -1,0 +1,2 @@
+cd MorafMM
+call run

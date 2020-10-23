@@ -1,0 +1,2 @@
+cd bicycle
+call run

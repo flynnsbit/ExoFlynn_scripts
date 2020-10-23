@@ -1,0 +1,2 @@
+cd Lettrix
+lettrix

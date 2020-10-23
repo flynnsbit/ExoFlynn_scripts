@@ -1,0 +1,2 @@
+cd StrColum
+call columbus

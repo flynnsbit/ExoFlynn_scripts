@@ -1,0 +1,2 @@
+cd antkill
+antkill

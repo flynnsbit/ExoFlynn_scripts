@@ -1,0 +1,2 @@
+cd SQSW
+gwbasic STAR

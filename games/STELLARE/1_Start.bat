@@ -1,0 +1,2 @@
+cd SETDE
+SE1

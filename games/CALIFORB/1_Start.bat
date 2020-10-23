@@ -1,0 +1,2 @@
+cd CalProG
+call runme

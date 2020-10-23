@@ -1,0 +1,2 @@
+cd obitus
+call run

@@ -1,0 +1,2 @@
+cd Biprolex
+call start

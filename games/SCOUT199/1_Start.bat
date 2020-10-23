@@ -1,0 +1,3 @@
+cd SCOut
+scout
+game

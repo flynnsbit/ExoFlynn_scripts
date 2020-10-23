@@ -1,0 +1,2 @@
+cd OneHund
+call autoexec

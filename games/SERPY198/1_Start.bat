@@ -1,0 +1,2 @@
+cd Serpy
+serpy

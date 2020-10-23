@@ -1,0 +1,2 @@
+cd permday
+call run

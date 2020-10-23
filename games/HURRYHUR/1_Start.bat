@@ -1,0 +1,2 @@
+cd Hurry
+call hurry

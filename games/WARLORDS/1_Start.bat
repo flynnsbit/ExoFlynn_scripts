@@ -1,0 +1,2 @@
+cd Warlords
+warlords

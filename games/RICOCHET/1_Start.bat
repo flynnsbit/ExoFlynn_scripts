@@ -1,0 +1,3 @@
+cd ricochet
+RICOCHET
+pause

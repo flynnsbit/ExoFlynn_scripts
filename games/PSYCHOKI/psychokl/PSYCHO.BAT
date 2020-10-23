@@ -1,0 +1,5 @@
+ECHO OFF
+D:
+CD \KILLER
+DTVPLAY -CD -c
+C:

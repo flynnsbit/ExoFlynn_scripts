@@ -1,0 +1,2 @@
+cd legaanci
+call legacy

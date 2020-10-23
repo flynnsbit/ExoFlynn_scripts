@@ -1,0 +1,2 @@
+cd StrikeAc
+call run

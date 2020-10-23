@@ -1,0 +1,2 @@
+cd TheCompu
+call play

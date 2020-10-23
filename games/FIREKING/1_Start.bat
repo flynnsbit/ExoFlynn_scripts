@@ -1,0 +1,2 @@
+cd fireking
+call fk

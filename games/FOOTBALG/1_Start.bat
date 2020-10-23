@@ -1,0 +1,2 @@
+cd FtblMWCE
+call EGA

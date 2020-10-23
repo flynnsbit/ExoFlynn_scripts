@@ -1,0 +1,2 @@
+cd Tcheck
+CHECKERS

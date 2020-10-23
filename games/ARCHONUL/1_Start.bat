@@ -1,0 +1,2 @@
+cd archonul
+archon

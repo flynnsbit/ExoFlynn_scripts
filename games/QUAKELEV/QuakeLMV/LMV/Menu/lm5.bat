@@ -1,0 +1,1 @@
+Quake -game lm5 +map sm1

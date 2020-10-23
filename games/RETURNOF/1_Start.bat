@@ -1,0 +1,2 @@
+cd RetODino
+call dino

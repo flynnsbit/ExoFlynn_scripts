@@ -1,0 +1,2 @@
+cd Killerba
+killer

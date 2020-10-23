@@ -1,0 +1,2 @@
+cd LaHeChin
+call run

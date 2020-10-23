@@ -1,0 +1,2 @@
+cd BeverlyH
+call game

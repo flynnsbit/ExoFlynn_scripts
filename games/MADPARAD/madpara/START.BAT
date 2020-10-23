@@ -1,0 +1,6 @@
+ECHO OFF
+c:\mouse.com
+PMDIBM /M16 /V0 /E2 /K
+GAME
+PMDIBM /R
+

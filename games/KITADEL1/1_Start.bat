@@ -1,0 +1,2 @@
+cd Kitadel
+kitadel

@@ -1,0 +1,2 @@
+cd MythMast
+mm1

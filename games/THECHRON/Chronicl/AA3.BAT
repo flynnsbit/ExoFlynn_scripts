@@ -1,0 +1,5 @@
+@echo off
+cd AARB3
+AARB3.EXE /W5 /FADE
+cd..
+AARBRON3.EXE

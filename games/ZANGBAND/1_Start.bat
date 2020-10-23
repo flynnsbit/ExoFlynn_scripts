@@ -1,0 +1,2 @@
+cd Zangband
+zangband

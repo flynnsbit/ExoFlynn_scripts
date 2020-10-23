@@ -1,0 +1,2 @@
+cd KlingonR
+run klingon

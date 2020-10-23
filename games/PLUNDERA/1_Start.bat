@@ -1,0 +1,2 @@
+cd plunpill
+call run

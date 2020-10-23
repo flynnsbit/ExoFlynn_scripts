@@ -1,0 +1,2 @@
+cd jimqus
+jq1

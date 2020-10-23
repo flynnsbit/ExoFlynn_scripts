@@ -1,0 +1,2 @@
+cd Mpinball
+pinball

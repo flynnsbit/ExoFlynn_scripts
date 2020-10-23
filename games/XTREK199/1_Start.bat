@@ -1,0 +1,2 @@
+cd xtrek
+agil xtrek

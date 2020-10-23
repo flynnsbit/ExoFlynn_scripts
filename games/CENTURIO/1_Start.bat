@@ -1,0 +1,2 @@
+cd centdor
+call run

@@ -1,0 +1,2 @@
+cd doomrogu
+call doomrl

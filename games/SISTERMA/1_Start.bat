@@ -1,0 +1,2 @@
+cd SistMary
+call play

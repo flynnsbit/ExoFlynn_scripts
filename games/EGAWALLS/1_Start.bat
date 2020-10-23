@@ -1,0 +1,3 @@
+cd Egawalls
+Egawalls
+egawalls

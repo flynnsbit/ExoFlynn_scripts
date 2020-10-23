@@ -1,0 +1,2 @@
+cd legfaer
+call start

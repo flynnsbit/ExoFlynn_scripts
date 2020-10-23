@@ -1,0 +1,2 @@
+cd OntheBal
+call wce

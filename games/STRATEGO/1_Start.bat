@@ -1,0 +1,2 @@
+cd Stratego
+call run

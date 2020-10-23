@@ -1,0 +1,2 @@
+SET DOS4GVM=
+setup

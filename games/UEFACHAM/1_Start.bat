@@ -1,0 +1,2 @@
+cd UEFA95
+GO.BAT

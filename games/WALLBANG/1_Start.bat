@@ -1,0 +1,2 @@
+cd WallBang
+call wallbang

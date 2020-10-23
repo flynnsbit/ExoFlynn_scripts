@@ -1,0 +1,3 @@
+cd greatnpb
+mouse
+gnb

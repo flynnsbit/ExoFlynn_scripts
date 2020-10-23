@@ -1,0 +1,2 @@
+cd OceanRan
+call ranger

@@ -1,0 +1,2 @@
+ATTRIB +A C:\BIN\GAMES\TRUMP\*.*
+

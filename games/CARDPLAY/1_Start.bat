@@ -1,0 +1,2 @@
+cd CrdPlyPa
+call run

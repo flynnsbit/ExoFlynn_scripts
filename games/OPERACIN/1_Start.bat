@@ -1,0 +1,2 @@
+cd Operacio
+call cyber

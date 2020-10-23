@@ -1,0 +1,5 @@
+ECHO OFF
+CLS
+KEY
+CK S %1
+KEY

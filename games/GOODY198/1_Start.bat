@@ -1,0 +1,2 @@
+cd goody
+goody

@@ -1,0 +1,2 @@
+cd HighScho
+call PLAY

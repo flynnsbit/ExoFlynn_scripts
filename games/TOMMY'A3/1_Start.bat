@@ -1,0 +1,2 @@
+cd Tpinochl
+PINOCHLE

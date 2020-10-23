@@ -1,0 +1,2 @@
+cd LOM
+MIDNIGHT

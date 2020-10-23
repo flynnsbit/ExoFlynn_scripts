@@ -1,0 +1,3 @@
+subst a: .
+a:
+acad

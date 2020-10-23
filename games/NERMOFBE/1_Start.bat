@@ -1,0 +1,2 @@
+cd NermBem
+call run

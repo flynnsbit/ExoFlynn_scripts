@@ -1,0 +1,2 @@
+cd flipper
+call flipper

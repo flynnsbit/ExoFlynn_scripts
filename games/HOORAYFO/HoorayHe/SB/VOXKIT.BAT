@@ -1,0 +1,4 @@
+ECHO OFF
+CD VOXKIT %1 %2 %3
+VOXKIT
+CD..

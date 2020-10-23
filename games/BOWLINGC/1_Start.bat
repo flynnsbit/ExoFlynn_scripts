@@ -1,0 +1,2 @@
+cd BowlChmp
+bowling

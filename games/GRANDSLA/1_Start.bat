@@ -1,0 +1,2 @@
+cd gslambri
+call ggs

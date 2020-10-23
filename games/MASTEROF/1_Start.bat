@@ -1,0 +1,2 @@
+cd mastmagi
+call run

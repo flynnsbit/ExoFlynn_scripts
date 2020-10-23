@@ -1,0 +1,2 @@
+cd lmanla
+call run

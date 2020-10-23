@@ -1,0 +1,2 @@
+cd SimpBvS
+call run

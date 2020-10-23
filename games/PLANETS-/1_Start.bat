@@ -1,0 +1,2 @@
+cd PlanExSp
+call local

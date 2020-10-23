@@ -1,0 +1,2 @@
+@earthly.exe
+@cls

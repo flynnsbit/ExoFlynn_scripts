@@ -1,0 +1,2 @@
+cd MDTheif
+call run

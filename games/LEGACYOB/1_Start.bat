@@ -1,0 +1,2 @@
+cd LotNP2
+PALACE

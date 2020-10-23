@@ -1,0 +1,2 @@
+cd WordWhiz
+call run

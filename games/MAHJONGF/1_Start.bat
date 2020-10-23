@@ -1,0 +1,2 @@
+cd MJfor1
+MAHJONG

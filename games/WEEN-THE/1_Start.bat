@@ -1,0 +1,2 @@
+cd ween
+call go

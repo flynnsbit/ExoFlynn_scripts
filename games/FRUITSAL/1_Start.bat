@@ -1,0 +1,2 @@
+cd fruitsal
+fsalad

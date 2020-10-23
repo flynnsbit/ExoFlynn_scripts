@@ -1,0 +1,1 @@
+@zoomnew 3-tl 3-tr 3-bl 3-br -w175 -h109 -x34 -y35 %1

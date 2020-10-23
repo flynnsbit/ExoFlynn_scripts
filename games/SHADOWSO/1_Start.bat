@@ -1,0 +1,2 @@
+cd shadsorc
+call run

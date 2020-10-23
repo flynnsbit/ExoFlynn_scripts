@@ -1,0 +1,2 @@
+cd Dino-Sor
+dino

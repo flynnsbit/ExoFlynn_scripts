@@ -1,0 +1,2 @@
+cd SuperAc
+call play

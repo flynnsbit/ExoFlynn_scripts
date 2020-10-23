@@ -1,0 +1,2 @@
+cd gnomer
+SCIV.bat

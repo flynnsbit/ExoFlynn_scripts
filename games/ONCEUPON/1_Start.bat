@@ -1,0 +1,2 @@
+cd uponfor
+call run

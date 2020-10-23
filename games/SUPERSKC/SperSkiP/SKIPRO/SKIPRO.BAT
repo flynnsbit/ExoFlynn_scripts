@@ -1,0 +1,1 @@
+SKI.EXE /CDDrive4 /CDpath\SKIPRO %1 %2 %3 %4

@@ -1,0 +1,2 @@
+cd ChampBs
+call baseball

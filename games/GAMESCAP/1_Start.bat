@@ -1,0 +1,2 @@
+cd Gamescap
+call run

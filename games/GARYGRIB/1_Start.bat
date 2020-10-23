@@ -1,0 +1,2 @@
+cd ggrigwr
+call run

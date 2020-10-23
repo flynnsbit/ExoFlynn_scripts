@@ -1,0 +1,2 @@
+cd Paganitz
+call run

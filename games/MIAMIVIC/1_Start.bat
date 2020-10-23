@@ -1,0 +1,2 @@
+cd MiamiVic
+call run

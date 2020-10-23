@@ -1,0 +1,2 @@
+cd Oligopol
+olig

@@ -1,0 +1,2 @@
+cd pawn
+magnetic pawn

@@ -1,0 +1,10 @@
+lzw DBLSWTCH.scr    
+lzw DEFENSE.scr    
+lzw MOUNDGRS.scr    
+lzw MOUNDTRF.scr      
+lzw OFFBULLG.scr      
+lzw OFFBULLT.scr      
+lzw OPTIONS.scr      
+lzw PINCHGRS.scr      
+lzw PINCHTRF.scr      
+lzw AINDSTAT.scr      

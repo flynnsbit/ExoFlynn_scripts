@@ -1,0 +1,2 @@
+cd TrmpCas
+call trump

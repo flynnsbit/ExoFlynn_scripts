@@ -1,0 +1,2 @@
+cd Slash
+call nh

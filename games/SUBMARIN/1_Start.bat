@@ -1,0 +1,2 @@
+cd Submarin
+sub

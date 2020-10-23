@@ -1,0 +1,2 @@
+cd Commando
+start

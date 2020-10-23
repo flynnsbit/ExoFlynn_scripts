@@ -1,0 +1,2 @@
+cd SurfNinj
+call surf

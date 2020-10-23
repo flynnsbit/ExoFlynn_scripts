@@ -1,0 +1,2 @@
+cd gulkstrk
+gs

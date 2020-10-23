@@ -1,0 +1,2 @@
+cd HomeAlon
+call run

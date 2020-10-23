@@ -1,0 +1,2 @@
+cd GalacEnc
+basica gegam

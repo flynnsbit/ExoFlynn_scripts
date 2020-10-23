@@ -1,0 +1,2 @@
+cd KillingC
+call run

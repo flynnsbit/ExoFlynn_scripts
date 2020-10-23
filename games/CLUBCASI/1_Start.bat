@@ -1,0 +1,2 @@
+cd ClbCas
+call MENU

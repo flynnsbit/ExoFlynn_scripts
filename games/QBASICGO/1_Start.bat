@@ -1,0 +1,2 @@
+cd qgor
+call Gorillas

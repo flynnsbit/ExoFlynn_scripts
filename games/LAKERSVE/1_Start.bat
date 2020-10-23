@@ -1,0 +1,2 @@
+cd Lakersve
+call run

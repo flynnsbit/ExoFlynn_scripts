@@ -1,0 +1,2 @@
+cd kwoend
+call pick

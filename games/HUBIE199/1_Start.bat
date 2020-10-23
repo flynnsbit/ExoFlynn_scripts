@@ -1,0 +1,2 @@
+cd Hubie
+call run

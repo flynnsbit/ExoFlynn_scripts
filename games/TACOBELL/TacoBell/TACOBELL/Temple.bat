@@ -1,0 +1,1 @@
+VRUN temple.wdl -wrs temple.wrs

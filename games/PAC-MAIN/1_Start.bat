@@ -1,0 +1,2 @@
+cd Pac-Main
+umfk

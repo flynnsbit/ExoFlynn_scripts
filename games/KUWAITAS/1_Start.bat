@@ -1,0 +1,2 @@
+cd KuwaitAs
+kuwait

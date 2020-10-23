@@ -1,0 +1,2 @@
+cd ArcadeBo
+call menu

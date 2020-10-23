@@ -1,0 +1,2 @@
+cd anciawsk
+call run

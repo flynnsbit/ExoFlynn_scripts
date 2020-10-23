@@ -1,0 +1,2 @@
+cd kingsyre
+call syree

@@ -1,0 +1,2 @@
+cd Renegade
+call rlegion

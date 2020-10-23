@@ -1,0 +1,2 @@
+cd StixWorl
+stx

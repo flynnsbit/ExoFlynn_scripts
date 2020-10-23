@@ -1,0 +1,2 @@
+cd ClckSoli
+clock

@@ -1,0 +1,2 @@
+cd SkiJump
+sj3

@@ -1,0 +1,2 @@
+@ECHO OFF 
+D:\ROOT\FAST.EXE %1 %2

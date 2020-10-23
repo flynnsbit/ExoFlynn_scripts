@@ -1,0 +1,2 @@
+cd WallRome
+call walls

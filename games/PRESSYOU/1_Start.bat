@@ -1,0 +1,2 @@
+cd PressYou
+call press

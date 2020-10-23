@@ -1,0 +1,2 @@
+cd Chadwick
+call eggthief

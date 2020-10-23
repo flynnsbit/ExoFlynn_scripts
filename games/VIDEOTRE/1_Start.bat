@@ -1,0 +1,2 @@
+cd VideoTr
+call runme

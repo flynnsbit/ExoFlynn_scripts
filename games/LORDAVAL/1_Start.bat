@@ -1,0 +1,2 @@
+cd avalot
+avalot

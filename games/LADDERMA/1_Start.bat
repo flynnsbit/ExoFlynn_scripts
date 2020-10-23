@@ -1,0 +1,2 @@
+cd ladderma
+call run

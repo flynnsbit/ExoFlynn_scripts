@@ -1,0 +1,2 @@
+cd TopGunDa
+call run

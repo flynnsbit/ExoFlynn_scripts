@@ -1,0 +1,2 @@
+cd PrinEvil
+play

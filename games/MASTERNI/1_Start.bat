@@ -1,0 +1,2 @@
+cd MasterNi
+call ninja

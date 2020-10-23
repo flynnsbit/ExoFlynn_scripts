@@ -1,0 +1,2 @@
+cd showtext
+call games

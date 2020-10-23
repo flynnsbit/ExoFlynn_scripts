@@ -1,0 +1,2 @@
+cd NobuAmb
+call play

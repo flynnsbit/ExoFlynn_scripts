@@ -1,0 +1,2 @@
+cd WraBlast
+call WB

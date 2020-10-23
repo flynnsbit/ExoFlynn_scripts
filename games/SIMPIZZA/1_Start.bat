@@ -1,0 +1,2 @@
+cd SimPizza
+SIMP

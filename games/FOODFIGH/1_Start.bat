@@ -1,0 +1,2 @@
+cd foodfite
+call local

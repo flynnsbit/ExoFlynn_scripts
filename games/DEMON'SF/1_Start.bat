@@ -1,0 +1,2 @@
+cd demoforg
+forge

@@ -1,0 +1,2 @@
+cd AQuickRu
+ADVEN2 SAMPLE.ADV

@@ -1,0 +1,2 @@
+cd Pirateso
+call game

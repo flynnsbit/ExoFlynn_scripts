@@ -1,0 +1,2 @@
+cd ttscb
+agi

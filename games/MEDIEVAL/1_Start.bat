@@ -1,0 +1,2 @@
+cd MedChess
+MEDIEVAL.EXE

@@ -1,0 +1,2 @@
+cd desert
+call run

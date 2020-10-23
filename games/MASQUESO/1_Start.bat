@@ -1,0 +1,2 @@
+cd MasqSAnt
+call SA

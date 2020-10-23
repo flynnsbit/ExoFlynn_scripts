@@ -1,0 +1,2 @@
+cd starcoma
+starcomm

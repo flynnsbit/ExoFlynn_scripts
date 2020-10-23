@@ -1,0 +1,2 @@
+cd CompqDOS
+call run

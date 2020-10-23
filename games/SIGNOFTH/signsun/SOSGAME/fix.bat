@@ -1,0 +1,9 @@
+@echo off
+copy .\BACKUP\LEVEL1\*.* .\LEVEL1\
+copy .\BACKUP\LEVEL1B\*.* .\LEVEL1B\
+copy .\BACKUP\LEVEL2\*.* .\LEVEL2\
+copy .\BACKUP\LEVEL3\*.* .\LEVEL3\
+copy .\BACKUP\LEVEL3B\*.* .\LEVEL3B\
+copy .\BACKUP\LEVEL4\*.* .\LEVEL4\
+copy .\BACKUP\LEVEL4B\*.* .\LEVEL4B\
+copy .\BACKUP\LEVEL5\*.* .\LEVEL5\

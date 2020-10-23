@@ -1,0 +1,2 @@
+cd JoGuest
+call jo

@@ -1,0 +1,2 @@
+cd lgpmonop
+monopoly

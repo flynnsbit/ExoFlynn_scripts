@@ -1,0 +1,1 @@
+axia setup %1

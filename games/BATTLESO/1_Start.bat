@@ -1,0 +1,2 @@
+cd batdest
+call battles

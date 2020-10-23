@@ -1,0 +1,2 @@
+cd GoneFis
+fishega

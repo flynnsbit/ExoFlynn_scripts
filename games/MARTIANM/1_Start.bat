@@ -1,0 +1,2 @@
+cd martianm
+call run

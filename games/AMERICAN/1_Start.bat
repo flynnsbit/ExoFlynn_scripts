@@ -1,0 +1,2 @@
+cd AmerGlad
+call run

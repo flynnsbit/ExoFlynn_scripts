@@ -1,0 +1,2 @@
+cd burntime
+call bt

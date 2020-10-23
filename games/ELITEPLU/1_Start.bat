@@ -1,0 +1,2 @@
+cd elitep
+call run

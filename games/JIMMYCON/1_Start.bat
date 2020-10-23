@@ -1,0 +1,2 @@
+cd JimmyCon
+ptt2

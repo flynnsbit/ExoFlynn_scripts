@@ -1,0 +1,2 @@
+cd StarTrad
+trade

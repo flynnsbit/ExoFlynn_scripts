@@ -1,0 +1,2 @@
+cd IntSoc
+is.exe

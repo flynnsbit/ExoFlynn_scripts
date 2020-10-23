@@ -1,0 +1,2 @@
+cd SimFarm
+call run

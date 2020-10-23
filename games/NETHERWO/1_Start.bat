@@ -1,0 +1,2 @@
+cd Netherwo
+call nether

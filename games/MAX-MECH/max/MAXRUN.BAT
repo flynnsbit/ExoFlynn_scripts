@@ -1,0 +1,2 @@
+Maxrun.exe -fD:\MAX
+

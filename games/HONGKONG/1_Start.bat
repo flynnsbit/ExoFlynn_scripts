@@ -1,0 +1,2 @@
+cd HongKong
+call runme

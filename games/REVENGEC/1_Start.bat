@@ -1,0 +1,2 @@
+cd RevoMC
+call run

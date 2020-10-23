@@ -1,0 +1,2 @@
+cd castnort
+call run

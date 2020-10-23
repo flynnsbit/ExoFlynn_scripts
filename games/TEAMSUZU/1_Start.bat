@@ -1,0 +1,2 @@
+cd TeamSuzu
+call run

@@ -1,0 +1,2 @@
+cd PostmanD
+call run

@@ -1,0 +1,2 @@
+cd gquest
+call gq

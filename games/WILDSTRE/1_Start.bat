@@ -1,0 +1,3 @@
+cd WildStre
+sound
+WILD

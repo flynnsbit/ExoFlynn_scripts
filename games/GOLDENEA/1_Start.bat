@@ -1,0 +1,2 @@
+cd GoldenEa
+call run

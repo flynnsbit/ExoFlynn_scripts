@@ -1,0 +1,2 @@
+cd kotdnac
+call start

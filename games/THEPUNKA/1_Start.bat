@@ -1,0 +1,2 @@
+cd PunkAlen
+call run

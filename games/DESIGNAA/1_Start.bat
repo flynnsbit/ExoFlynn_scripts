@@ -1,0 +1,2 @@
+cd Designas
+dino

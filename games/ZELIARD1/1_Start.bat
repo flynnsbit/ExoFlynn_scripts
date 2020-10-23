@@ -1,0 +1,2 @@
+cd zeliard
+call run

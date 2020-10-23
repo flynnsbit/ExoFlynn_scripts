@@ -1,0 +1,2 @@
+cd PCBOWL-E
+pcbowl

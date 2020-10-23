@@ -1,0 +1,2 @@
+cd DarkCont
+darkcon

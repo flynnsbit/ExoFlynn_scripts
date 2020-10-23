@@ -1,0 +1,5 @@
+ECHO OFF
+TC3INTRO
+TC3
+
+

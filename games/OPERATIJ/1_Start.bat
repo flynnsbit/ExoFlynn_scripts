@@ -1,0 +1,2 @@
+cd OpMarkG
+mmain

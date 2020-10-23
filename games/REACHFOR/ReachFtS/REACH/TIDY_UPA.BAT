@@ -1,0 +1,4 @@
+call TIDY_UPV.BAT
+call TIDY_UPP.BAT
+call TIDY_UPH.BAT
+call TIDY_UPD.BAT

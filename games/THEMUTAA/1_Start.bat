@@ -1,0 +1,2 @@
+cd mutanoiW
+call run

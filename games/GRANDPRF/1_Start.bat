@@ -1,0 +1,2 @@
+cd GPrixU
+call run

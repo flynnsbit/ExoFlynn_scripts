@@ -1,0 +1,2 @@
+cd StonMano
+call manor

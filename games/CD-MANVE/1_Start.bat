@@ -1,0 +1,2 @@
+cd CDManVe
+call run

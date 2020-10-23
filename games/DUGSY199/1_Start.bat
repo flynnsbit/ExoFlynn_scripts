@@ -1,0 +1,2 @@
+cd Dugsy
+call dugsy

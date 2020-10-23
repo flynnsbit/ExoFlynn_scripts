@@ -1,0 +1,2 @@
+cd RaceJamm
+call JAMMER

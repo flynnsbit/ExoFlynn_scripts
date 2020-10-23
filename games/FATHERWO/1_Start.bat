@@ -1,0 +1,2 @@
+cd fatherw
+call run

@@ -1,0 +1,2 @@
+cd bombx
+call BOMBX

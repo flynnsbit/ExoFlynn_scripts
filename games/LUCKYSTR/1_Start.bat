@@ -1,0 +1,2 @@
+cd LuckyStr
+LUKYSTRK

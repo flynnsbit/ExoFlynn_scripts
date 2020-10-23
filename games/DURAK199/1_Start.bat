@@ -1,0 +1,2 @@
+cd Durak
+durak

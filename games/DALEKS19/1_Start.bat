@@ -1,0 +1,2 @@
+cd daleks
+daleks

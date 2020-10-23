@@ -1,0 +1,2 @@
+cd crusher
+crusher

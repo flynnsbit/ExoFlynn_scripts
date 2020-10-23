@@ -1,0 +1,2 @@
+cd kasparov
+call run

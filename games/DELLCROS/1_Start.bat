@@ -1,0 +1,2 @@
+cd DelXWord
+menu

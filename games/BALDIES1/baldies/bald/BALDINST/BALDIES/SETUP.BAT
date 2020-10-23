@@ -1,0 +1,5 @@
+@ECHO OFF
+CD GAME
+SETUP
+CD ..
+

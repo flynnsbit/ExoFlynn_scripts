@@ -1,0 +1,2 @@
+cd Smashout
+call smashout

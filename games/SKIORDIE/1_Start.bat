@@ -1,0 +1,2 @@
+cd SkiorDie
+call run

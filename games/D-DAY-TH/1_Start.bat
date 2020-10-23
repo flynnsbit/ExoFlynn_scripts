@@ -1,0 +1,2 @@
+cd ddayboe
+call run

@@ -1,0 +1,2 @@
+cd locomoti
+call start

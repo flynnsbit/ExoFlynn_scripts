@@ -1,0 +1,2 @@
+cd DungKroz
+call run

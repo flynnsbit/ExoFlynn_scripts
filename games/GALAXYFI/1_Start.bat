@@ -1,0 +1,2 @@
+cd GalxFite
+call run

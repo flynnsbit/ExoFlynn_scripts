@@ -1,0 +1,2 @@
+cd DigDug
+digdug

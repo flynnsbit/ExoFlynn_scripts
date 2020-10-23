@@ -1,0 +1,2 @@
+cd OnTarget
+call run

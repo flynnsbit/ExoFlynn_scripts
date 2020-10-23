@@ -1,0 +1,2 @@
+cd duskgod
+call dusk

@@ -1,0 +1,2 @@
+cd XmasCarn
+call run

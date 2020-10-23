@@ -1,0 +1,2 @@
+cd Galact88
+GALACTIX

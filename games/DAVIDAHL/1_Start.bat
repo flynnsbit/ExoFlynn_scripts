@@ -1,0 +1,2 @@
+cd davahl
+call run

@@ -1,0 +1,2 @@
+cd NightBom
+bomber

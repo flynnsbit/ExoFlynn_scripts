@@ -1,0 +1,3 @@
+C:
+CD \NICO
+NICO.EXE

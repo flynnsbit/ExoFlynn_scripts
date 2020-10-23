@@ -1,0 +1,2 @@
+cd IBMWoF
+call fortune

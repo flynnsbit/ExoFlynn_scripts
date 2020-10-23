@@ -1,0 +1,2 @@
+cd TycTCMS
+call start

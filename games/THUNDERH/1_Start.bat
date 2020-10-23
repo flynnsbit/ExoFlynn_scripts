@@ -1,0 +1,2 @@
+cd Thunderh
+call run

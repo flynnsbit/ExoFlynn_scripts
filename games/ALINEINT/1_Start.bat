@@ -1,0 +1,2 @@
+cd linesand
+call run

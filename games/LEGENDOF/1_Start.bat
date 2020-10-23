@@ -1,0 +1,2 @@
+cd djel
+call djel

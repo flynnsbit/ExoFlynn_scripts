@@ -1,0 +1,2 @@
+cd TheSoari
+call go

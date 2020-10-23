@@ -1,0 +1,2 @@
+cd Deathbri
+call run

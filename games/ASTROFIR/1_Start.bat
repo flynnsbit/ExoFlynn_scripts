@@ -1,0 +1,2 @@
+cd AstroFir
+astro

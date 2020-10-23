@@ -1,0 +1,2 @@
+cd LethalWe
+call run

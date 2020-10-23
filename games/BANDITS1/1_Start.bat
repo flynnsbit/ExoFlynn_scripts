@@ -1,0 +1,2 @@
+cd Bandits
+bandits!.com

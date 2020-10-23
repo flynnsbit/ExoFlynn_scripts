@@ -1,0 +1,2 @@
+cd IntrLife
+call run

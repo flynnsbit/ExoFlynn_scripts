@@ -1,0 +1,2 @@
+cd QIX
+call run

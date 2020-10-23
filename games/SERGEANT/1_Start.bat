@@ -1,0 +1,2 @@
+cd Sslotte
+SLOTTE.EXE

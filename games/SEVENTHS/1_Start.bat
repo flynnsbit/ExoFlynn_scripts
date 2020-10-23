@@ -1,0 +1,2 @@
+cd SevSwoMe
+mendor.exe

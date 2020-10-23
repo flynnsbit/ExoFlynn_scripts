@@ -1,0 +1,2 @@
+cd OmegaAd
+omega

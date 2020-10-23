@@ -1,0 +1,2 @@
+cd dayviper
+call run

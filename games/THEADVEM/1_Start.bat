@@ -1,0 +1,2 @@
+cd beamish
+call run

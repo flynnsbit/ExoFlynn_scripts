@@ -1,0 +1,2 @@
+cd blackbox
+call runme

@@ -1,0 +1,2 @@
+cd AMattero
+time1

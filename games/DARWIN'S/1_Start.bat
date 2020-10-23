@@ -1,0 +1,2 @@
+cd DarwinAr
+call goarena

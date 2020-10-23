@@ -1,0 +1,2 @@
+cd BattBeyo
+start

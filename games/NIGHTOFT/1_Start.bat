@@ -1,0 +1,2 @@
+cd niteherm
+call run

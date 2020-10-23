@@ -1,0 +1,2 @@
+cd FireIce
+call run

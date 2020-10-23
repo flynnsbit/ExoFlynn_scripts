@@ -1,0 +1,2 @@
+cd hirollca
+cmenu

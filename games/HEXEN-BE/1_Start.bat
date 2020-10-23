@@ -1,0 +1,2 @@
+cd HexenBey
+call run

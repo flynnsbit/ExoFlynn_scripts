@@ -1,0 +1,2 @@
+cd andrques
+call runme

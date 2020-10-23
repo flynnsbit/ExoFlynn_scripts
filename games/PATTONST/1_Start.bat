@@ -1,0 +1,2 @@
+cd PattonSt
+call play

@@ -1,0 +1,4 @@
+@C:
+@CD \LEGACY\ERI
+@CALL ERI.BAT
+@CD \

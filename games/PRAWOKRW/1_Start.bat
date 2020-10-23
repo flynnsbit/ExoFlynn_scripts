@@ -1,0 +1,2 @@
+cd Prawokr
+call runme

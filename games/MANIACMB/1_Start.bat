@@ -1,0 +1,2 @@
+cd mansiond
+maniac p

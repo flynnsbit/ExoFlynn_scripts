@@ -1,0 +1,2 @@
+cd tennitki
+call run

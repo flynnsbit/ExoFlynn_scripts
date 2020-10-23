@@ -1,0 +1,2 @@
+cd SlordaxT
+slordax

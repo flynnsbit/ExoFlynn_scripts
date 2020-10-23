@@ -1,0 +1,2 @@
+cd CruelWor
+call cruel

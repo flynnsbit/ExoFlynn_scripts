@@ -1,0 +1,2 @@
+cd wapcs
+call run

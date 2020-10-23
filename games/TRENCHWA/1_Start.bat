@@ -1,0 +1,2 @@
+cd TrenWar
+TW.EXE

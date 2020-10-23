@@ -1,0 +1,2 @@
+cd SpellCas
+call go

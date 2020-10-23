@@ -1,0 +1,2 @@
+cd PharaohT
+call pick

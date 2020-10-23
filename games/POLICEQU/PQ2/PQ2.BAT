@@ -1,0 +1,2 @@
+sierra resource.cfg
+cd..

@@ -1,0 +1,2 @@
+cd TurboFC
+FLASHY-C.EXE

@@ -1,0 +1,5 @@
+cd ..
+cp
+cd .\combat
+
+

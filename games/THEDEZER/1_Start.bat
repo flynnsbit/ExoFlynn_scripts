@@ -1,0 +1,2 @@
+cd Dezerian
+redkey

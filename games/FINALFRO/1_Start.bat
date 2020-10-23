@@ -1,0 +1,2 @@
+cd finlfron
+call ega

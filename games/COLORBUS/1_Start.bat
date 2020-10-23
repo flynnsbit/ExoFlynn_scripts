@@ -1,0 +1,2 @@
+cd colobust
+call color

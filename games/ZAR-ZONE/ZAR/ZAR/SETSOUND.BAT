@@ -1,0 +1,3 @@
+cd SOUND
+SetSound
+cd ..

@@ -1,0 +1,2 @@
+cd DarkestN
+dark

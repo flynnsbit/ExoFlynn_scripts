@@ -1,0 +1,2 @@
+cd BeyondCa
+call run

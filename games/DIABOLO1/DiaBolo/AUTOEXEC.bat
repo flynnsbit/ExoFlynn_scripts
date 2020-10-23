@@ -1,0 +1,1 @@
+set blaster=A220 I7 D1 H5 T6

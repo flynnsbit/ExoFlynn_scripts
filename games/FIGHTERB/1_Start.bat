@@ -1,0 +1,2 @@
+cd Fighter
+call run

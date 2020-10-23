@@ -1,0 +1,2 @@
+cd lemmohno
+Vgalemmi.exe

@@ -1,0 +1,2 @@
+cd chamgolf
+golf

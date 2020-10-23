@@ -1,0 +1,2 @@
+cd mazemag
+ADMAZE.EXE

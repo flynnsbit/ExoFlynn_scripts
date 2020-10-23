@@ -1,0 +1,2 @@
+cd cadaver
+call runme

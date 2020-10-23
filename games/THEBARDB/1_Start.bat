@@ -1,0 +1,2 @@
+cd BardQDoU
+call run

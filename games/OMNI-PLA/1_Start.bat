@@ -1,0 +1,2 @@
+cd Omni-Pla
+play

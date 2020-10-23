@@ -1,0 +1,2 @@
+cd RockFite
+rocket

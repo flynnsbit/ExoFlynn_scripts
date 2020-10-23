@@ -1,0 +1,2 @@
+cd dlxtrivp
+call run

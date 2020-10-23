@@ -1,0 +1,2 @@
+cd ThaiChss
+TCHESS.EXE

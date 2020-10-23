@@ -1,0 +1,2 @@
+cd Sailing
+call sailing

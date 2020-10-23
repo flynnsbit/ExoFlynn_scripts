@@ -1,0 +1,2 @@
+cd BloodyLi
+call bloody

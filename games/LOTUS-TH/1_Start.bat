@@ -1,0 +1,2 @@
+cd LotusThe
+call run

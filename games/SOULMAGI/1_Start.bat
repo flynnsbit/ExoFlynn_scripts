@@ -1,0 +1,2 @@
+cd SoulMagi
+SOUL.BAT

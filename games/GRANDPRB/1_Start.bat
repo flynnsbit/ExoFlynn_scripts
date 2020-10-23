@@ -1,0 +1,2 @@
+cd GPrixC
+gp

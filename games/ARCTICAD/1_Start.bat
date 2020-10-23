@@ -1,0 +1,2 @@
+cd ArcticAd
+call run

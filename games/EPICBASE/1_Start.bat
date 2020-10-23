@@ -1,0 +1,2 @@
+cd epicbase
+epicbb

@@ -1,0 +1,2 @@
+cd superzzt
+call run

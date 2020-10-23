@@ -1,0 +1,2 @@
+cd Arcticfo
+afox16

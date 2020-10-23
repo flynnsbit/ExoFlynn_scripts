@@ -1,0 +1,2 @@
+cd KingSyr2
+CALL SYREE2

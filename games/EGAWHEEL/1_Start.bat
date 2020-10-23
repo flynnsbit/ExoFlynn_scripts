@@ -1,0 +1,2 @@
+cd EGAWheel
+egawheel

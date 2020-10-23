@@ -1,0 +1,2 @@
+cd JumpJet
+call run

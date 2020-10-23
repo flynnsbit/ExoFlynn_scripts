@@ -1,0 +1,2 @@
+cd aego
+call run

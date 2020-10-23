@@ -1,0 +1,2 @@
+cd Pang
+call run

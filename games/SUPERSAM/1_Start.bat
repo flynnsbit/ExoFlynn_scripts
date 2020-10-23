@@ -1,0 +1,2 @@
+cd samtong
+call run

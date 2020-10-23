@@ -1,0 +1,2 @@
+cd kinggerm
+germany

@@ -1,0 +1,2 @@
+cd Bestofth
+kick

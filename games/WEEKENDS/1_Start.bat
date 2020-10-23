@@ -1,0 +1,2 @@
+cd WeekSurv
+call weekend

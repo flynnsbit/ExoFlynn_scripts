@@ -1,0 +1,1 @@
+@qbasic /run game.bas

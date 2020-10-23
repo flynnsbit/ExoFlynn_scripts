@@ -1,0 +1,1 @@
+D:\intro.exe >NUL

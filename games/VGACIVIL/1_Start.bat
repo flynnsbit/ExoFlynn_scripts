@@ -1,0 +1,3 @@
+cd VGACWS
+cd CWSTRAT
+cws

@@ -1,0 +1,2 @@
+cd TheaWar
+call twar

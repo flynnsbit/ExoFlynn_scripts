@@ -1,0 +1,2 @@
+cd BumpysAr
+call run

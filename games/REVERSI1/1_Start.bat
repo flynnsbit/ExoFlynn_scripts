@@ -1,0 +1,2 @@
+cd Rever85
+REVERSI

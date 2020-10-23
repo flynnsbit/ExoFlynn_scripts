@@ -1,0 +1,2 @@
+cd TerranEn
+TE.EXE

@@ -1,0 +1,2 @@
+pomalu.com
+t.exe

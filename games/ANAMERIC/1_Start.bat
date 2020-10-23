@@ -1,0 +1,2 @@
+cd fievelw
+call run

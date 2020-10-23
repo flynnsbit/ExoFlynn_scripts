@@ -1,0 +1,2 @@
+cd drugwars
+drugwars

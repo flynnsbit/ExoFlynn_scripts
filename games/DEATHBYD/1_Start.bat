@@ -1,0 +1,2 @@
+cd DeathbyD
+call shadows

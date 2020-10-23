@@ -1,0 +1,2 @@
+cd ironcros
+call run

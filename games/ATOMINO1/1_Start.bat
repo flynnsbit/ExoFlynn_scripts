@@ -1,0 +1,2 @@
+cd atomino
+atomkrak

@@ -1,0 +1,2 @@
+cd DTOC
+call daley

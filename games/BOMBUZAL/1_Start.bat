@@ -1,0 +1,2 @@
+cd bombuzal
+bombuzal

@@ -1,0 +1,2 @@
+cd GrandMon
+call gms

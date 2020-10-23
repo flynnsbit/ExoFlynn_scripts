@@ -1,0 +1,2 @@
+cd tzero
+t-zero

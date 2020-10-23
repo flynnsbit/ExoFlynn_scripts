@@ -1,0 +1,2 @@
+cd crimeti
+call crime

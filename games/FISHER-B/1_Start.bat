@@ -1,0 +1,2 @@
+cd LPBowlin
+call bowl

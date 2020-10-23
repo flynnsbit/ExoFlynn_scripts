@@ -1,0 +1,2 @@
+cd GiantSpa
+slug

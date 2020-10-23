@@ -1,0 +1,2 @@
+cd Paris-Da
+paris

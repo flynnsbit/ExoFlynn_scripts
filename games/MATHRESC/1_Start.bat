@@ -1,0 +1,2 @@
+cd MathResc
+call run

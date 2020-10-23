@@ -1,0 +1,3 @@
+@ECHO OFF
+IF NOT EXIST dig.ini SETSOUND
+bi

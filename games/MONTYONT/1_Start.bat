@@ -1,0 +1,2 @@
+cd MontyNrm
+call run

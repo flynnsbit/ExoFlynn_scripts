@@ -1,0 +1,2 @@
+cd longbow
+call run

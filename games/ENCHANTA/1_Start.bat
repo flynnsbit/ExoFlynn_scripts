@@ -1,0 +1,2 @@
+cd ehantasy
+enchant

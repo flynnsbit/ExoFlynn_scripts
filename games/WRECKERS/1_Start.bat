@@ -1,0 +1,2 @@
+cd Wreckers
+call wreckers

@@ -1,0 +1,2 @@
+cd XmasDuck
+ducks

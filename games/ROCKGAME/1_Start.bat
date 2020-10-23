@@ -1,0 +1,2 @@
+cd RockGame
+call run

@@ -1,0 +1,2 @@
+cd MisterFJ
+FRUITJOY.EXE

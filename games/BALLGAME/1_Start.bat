@@ -1,0 +1,2 @@
+cd Bgame2
+BALGAME2

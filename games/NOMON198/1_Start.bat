@@ -1,0 +1,2 @@
+cd Nomon
+call nomon

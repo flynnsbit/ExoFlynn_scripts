@@ -1,0 +1,4 @@
+C:
+cd \cdusa
+cdusap
+

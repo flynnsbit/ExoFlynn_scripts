@@ -1,0 +1,2 @@
+cd TheManag
+bmp

@@ -1,0 +1,2 @@
+cd Legendo
+call go

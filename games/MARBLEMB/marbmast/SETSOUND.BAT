@@ -1,0 +1,3 @@
+cd drivers
+setsound
+cd ..

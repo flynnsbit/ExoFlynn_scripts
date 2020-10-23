@@ -1,0 +1,2 @@
+cd MetalSav
+METAL.EXE

@@ -1,0 +1,2 @@
+cd GBLabyri
+call run

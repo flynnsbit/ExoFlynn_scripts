@@ -1,0 +1,2 @@
+cd Janosik
+call JANOSIK

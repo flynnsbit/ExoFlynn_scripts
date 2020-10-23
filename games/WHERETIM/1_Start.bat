@@ -1,0 +1,2 @@
+cd wtimess
+CALL WTSS

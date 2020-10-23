@@ -1,0 +1,2 @@
+cd DAUGHTER
+call run

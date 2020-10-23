@@ -1,0 +1,2 @@
+cd lordofcq
+loc

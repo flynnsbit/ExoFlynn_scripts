@@ -1,0 +1,2 @@
+cd Attack
+call attack

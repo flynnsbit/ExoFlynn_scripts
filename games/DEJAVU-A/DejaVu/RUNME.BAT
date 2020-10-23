@@ -1,0 +1,3 @@
+weakbit
+dejavu
+disable

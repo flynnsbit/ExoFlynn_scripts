@@ -1,0 +1,2 @@
+cd GridFi3D
+GRID3D

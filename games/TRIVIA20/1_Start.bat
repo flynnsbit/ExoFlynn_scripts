@@ -1,0 +1,2 @@
+cd Triv2k
+TRIV2000

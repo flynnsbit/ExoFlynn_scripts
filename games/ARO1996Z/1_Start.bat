@@ -1,0 +1,3 @@
+cd Aro
+pause
+aro

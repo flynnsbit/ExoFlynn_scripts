@@ -1,0 +1,2 @@
+cd serenia
+call run

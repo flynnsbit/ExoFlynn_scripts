@@ -1,0 +1,2 @@
+cd wultima
+call run

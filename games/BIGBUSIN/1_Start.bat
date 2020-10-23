@@ -1,0 +1,2 @@
+cd bigbusi
+call bb

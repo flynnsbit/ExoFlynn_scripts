@@ -1,0 +1,2 @@
+warwiz1 -fast
+

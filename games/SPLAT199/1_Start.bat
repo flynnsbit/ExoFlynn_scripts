@@ -1,0 +1,2 @@
+cd Splat!
+splat

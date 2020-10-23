@@ -1,0 +1,2 @@
+cd Blackjac
+blackjk2

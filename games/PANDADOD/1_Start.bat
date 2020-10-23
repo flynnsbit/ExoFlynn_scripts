@@ -1,0 +1,2 @@
+cd BaoxDuo
+call run

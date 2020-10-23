@@ -1,0 +1,4 @@
+cd trial
+sierra
+cd ..
+

@@ -1,0 +1,2 @@
+cd MegaMath
+call run

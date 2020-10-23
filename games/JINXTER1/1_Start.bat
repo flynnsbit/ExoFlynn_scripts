@@ -1,0 +1,2 @@
+cd jinxter
+call jinxter

@@ -1,0 +1,2 @@
+cd SSGG
+ssg

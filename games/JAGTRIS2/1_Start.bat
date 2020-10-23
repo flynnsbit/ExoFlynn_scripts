@@ -1,0 +1,2 @@
+cd Jagtris
+jagtris4

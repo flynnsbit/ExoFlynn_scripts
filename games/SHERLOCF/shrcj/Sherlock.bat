@@ -1,0 +1,1 @@
+frotz sherlock.dat

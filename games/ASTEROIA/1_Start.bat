@@ -1,0 +1,2 @@
+cd AstPilot
+call ASTEROID

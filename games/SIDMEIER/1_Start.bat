@@ -1,0 +1,2 @@
+cd covertac
+covert.exe

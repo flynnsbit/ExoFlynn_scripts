@@ -1,0 +1,2 @@
+cd ViolFigh
+call FIGHTER

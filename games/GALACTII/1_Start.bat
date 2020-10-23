@@ -1,0 +1,2 @@
+cd Galactix
+GX1

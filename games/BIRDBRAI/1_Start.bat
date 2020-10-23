@@ -1,0 +1,2 @@
+cd BirdBrai
+call bird

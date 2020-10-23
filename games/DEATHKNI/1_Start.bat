@@ -1,0 +1,2 @@
+cd dkkrynn
+call run

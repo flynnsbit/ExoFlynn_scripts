@@ -1,0 +1,3 @@
+cd advxoru
+AXORU
+pause

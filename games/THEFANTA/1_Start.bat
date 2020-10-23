@@ -1,0 +1,2 @@
+cd TheFanta
+call dizzy

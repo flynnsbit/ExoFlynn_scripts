@@ -1,0 +1,2 @@
+cd SecretAg
+call run

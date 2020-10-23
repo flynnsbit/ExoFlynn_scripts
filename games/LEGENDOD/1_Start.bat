@@ -1,0 +1,2 @@
+cd legord
+call run

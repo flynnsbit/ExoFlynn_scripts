@@ -1,0 +1,2 @@
+cd Mono1992
+MONO.BAT

@@ -1,0 +1,2 @@
+cd pqswat
+sierrah.exe

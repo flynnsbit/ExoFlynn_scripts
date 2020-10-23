@@ -1,0 +1,2 @@
+cd PlayerMa
+call run

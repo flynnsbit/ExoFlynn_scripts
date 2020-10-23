@@ -1,0 +1,2 @@
+cd VGABould
+call start

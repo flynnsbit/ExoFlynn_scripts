@@ -1,0 +1,2 @@
+cd finlsoul
+finalv4

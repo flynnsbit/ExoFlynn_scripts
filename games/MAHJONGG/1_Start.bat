@@ -1,0 +1,2 @@
+cd MJongVGA
+call run

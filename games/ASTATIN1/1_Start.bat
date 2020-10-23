@@ -1,0 +1,2 @@
+cd Astatin
+call START

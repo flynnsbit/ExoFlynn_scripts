@@ -1,0 +1,2 @@
+cd Origamo
+call run

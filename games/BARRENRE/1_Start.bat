@@ -1,0 +1,2 @@
+cd BRE
+call local

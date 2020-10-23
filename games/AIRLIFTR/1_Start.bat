@@ -1,0 +1,2 @@
+cd AirliftR
+airlift

@@ -1,0 +1,4 @@
+@ECHO OFF
+C:
+CD \DEATH
+DGATE

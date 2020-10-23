@@ -1,0 +1,2 @@
+cd WordMunc
+wm

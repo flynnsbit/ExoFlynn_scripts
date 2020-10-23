@@ -1,0 +1,2 @@
+cd PeeGity
+call play

@@ -1,0 +1,1 @@
+@czytaj.exe karzel.txt

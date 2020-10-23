@@ -1,0 +1,2 @@
+cd atacswad
+call run

@@ -1,0 +1,3 @@
+cd Blockage
+mreset
+blockage

@@ -1,0 +1,2 @@
+cd PutUp
+putup

@@ -1,0 +1,1 @@
+buildlib @ptetools.idx

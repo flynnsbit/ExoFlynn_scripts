@@ -1,0 +1,2 @@
+cd DemonSta
+game

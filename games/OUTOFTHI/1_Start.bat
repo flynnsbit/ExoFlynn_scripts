@@ -1,0 +1,2 @@
+cd OutofThi
+call run

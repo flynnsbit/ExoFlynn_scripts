@@ -1,0 +1,2 @@
+cd StarBowl
+star

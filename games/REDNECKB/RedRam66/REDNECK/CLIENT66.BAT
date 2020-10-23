@@ -1,0 +1,3 @@
+IPXNET CONNECT %1
+route66m.EXE
+EXIT

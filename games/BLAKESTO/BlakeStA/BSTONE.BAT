@@ -1,0 +1,3 @@
+C:
+cd \BSTONE
+BSTONE

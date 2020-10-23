@@ -1,0 +1,2 @@
+cd Geometri
+call GEO

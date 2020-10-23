@@ -1,0 +1,2 @@
+cd DedlySky
+demo

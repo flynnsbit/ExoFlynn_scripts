@@ -1,0 +1,2 @@
+cd SuprBox
+call sboxing

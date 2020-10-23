@@ -1,0 +1,5 @@
+echo off
+cd AARB2
+AARB2.EXE /W5 /FADE
+cd..
+AARBRON2.EXE

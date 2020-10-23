@@ -1,0 +1,2 @@
+cd DSStory
+call run

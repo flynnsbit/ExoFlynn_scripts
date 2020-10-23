@@ -1,0 +1,9 @@
+cd death
+aif2raw *.aif
+cd ..\ouch
+aif2raw *.aif
+cd ..\victory
+aif2raw *.aif
+cd ..\distant
+aif2raw *.aif
+cd ..

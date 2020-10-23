@@ -1,0 +1,2 @@
+cd ShuttleT
+call run

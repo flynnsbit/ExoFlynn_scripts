@@ -1,0 +1,2 @@
+cd RamboIII
+call run

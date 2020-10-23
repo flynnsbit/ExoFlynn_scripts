@@ -1,0 +1,2 @@
+cd DiamPetr
+call START

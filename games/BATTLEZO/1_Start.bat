@@ -1,0 +1,2 @@
+cd batzone
+bzone

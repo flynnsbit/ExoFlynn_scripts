@@ -1,0 +1,2 @@
+cd vc
+call vc

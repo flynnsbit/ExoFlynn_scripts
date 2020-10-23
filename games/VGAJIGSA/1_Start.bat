@@ -1,0 +1,2 @@
+cd VGAJSaw
+VJIG.exe

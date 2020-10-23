@@ -1,0 +1,2 @@
+cd bondgold
+call autoexec

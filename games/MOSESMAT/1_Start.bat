@@ -1,0 +1,2 @@
+cd MosesMat
+MOSESMUP.EXE

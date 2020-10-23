@@ -1,0 +1,2 @@
+cd WastRebe
+WREBEL.EXE

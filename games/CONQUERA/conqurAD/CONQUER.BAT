@@ -1,0 +1,2 @@
+@ECHO OFF 
+D:\CONQUER.EXE %1 %2

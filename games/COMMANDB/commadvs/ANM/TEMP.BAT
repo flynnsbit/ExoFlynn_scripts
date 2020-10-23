@@ -1,0 +1,4 @@
+@ECHO OFF
+CTTY NUL
+CD ..
+CTTY CON

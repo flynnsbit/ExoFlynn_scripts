@@ -1,0 +1,2 @@
+cd DRdNibel
+call ring

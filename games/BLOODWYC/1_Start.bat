@@ -1,0 +1,2 @@
+cd bldwych
+call run

@@ -1,0 +1,2 @@
+cd trobtow
+call start

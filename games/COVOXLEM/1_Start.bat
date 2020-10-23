@@ -1,0 +1,2 @@
+cd CovoxLem
+lemmings vga

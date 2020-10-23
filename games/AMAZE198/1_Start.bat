@@ -1,0 +1,2 @@
+cd Amaze
+amaze

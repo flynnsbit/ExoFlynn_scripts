@@ -1,0 +1,2 @@
+cd BudokanT
+call run

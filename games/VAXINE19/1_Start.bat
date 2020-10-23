@@ -1,0 +1,2 @@
+cd Vaxine
+call run

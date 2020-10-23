@@ -1,0 +1,2 @@
+cd TrafficD
+call run

@@ -1,0 +1,2 @@
+cd Bricks
+brick

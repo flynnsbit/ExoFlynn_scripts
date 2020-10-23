@@ -1,0 +1,2 @@
+cd TrivPur
+tp ega

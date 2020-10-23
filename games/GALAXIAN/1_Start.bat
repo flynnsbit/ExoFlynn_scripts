@@ -1,0 +1,2 @@
+cd Galaxian
+Galaxian

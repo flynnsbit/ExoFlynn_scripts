@@ -1,0 +1,2 @@
+cd ShapSift
+call shape

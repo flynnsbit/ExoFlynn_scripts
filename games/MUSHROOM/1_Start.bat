@@ -1,0 +1,2 @@
+cd Mushroom
+mania

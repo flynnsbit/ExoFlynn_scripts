@@ -1,0 +1,2 @@
+cd Heretic
+call run

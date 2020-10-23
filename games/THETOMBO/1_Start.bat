@@ -1,0 +1,2 @@
+cd TombOtAP
+call tomb

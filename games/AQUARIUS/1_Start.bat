@@ -1,0 +1,2 @@
+cd Aquarius
+sciv

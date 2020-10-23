@@ -1,0 +1,2 @@
+D:
+SKY CFG=C:\SKY

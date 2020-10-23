@@ -1,0 +1,2 @@
+cd lvvpoker
+call video

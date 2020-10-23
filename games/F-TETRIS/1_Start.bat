@@ -1,0 +1,2 @@
+cd Ftetris
+f-tetris

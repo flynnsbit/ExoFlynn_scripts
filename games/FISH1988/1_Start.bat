@@ -1,0 +1,2 @@
+cd fish
+call run

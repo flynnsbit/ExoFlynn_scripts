@@ -1,0 +1,2 @@
+cd TMNT
+call run

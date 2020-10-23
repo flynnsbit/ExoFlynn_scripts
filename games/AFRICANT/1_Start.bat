@@ -1,0 +1,2 @@
+cd AfricanT
+call disk

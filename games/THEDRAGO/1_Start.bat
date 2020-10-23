@@ -1,0 +1,2 @@
+cd dsword
+ds v

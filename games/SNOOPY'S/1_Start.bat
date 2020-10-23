@@ -1,0 +1,2 @@
+cd SnoopysG
+call run

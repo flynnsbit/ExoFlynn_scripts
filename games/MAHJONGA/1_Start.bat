@@ -1,0 +1,2 @@
+cd MJonggLT
+MJLAPTOP.EXE

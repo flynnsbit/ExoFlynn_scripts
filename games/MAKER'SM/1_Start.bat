@@ -1,0 +1,2 @@
+cd makematc
+makermup

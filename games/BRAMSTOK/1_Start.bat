@@ -1,0 +1,2 @@
+cd BramStok
+call run

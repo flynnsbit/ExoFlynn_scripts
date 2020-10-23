@@ -1,0 +1,2 @@
+cd BBearGtF
+call farm

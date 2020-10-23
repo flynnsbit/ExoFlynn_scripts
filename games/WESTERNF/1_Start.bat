@@ -1,0 +1,2 @@
+cd WesternF
+wf

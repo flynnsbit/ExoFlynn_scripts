@@ -1,0 +1,2 @@
+cd BumpWarr
+call run

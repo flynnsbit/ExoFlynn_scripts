@@ -1,0 +1,2 @@
+cd Kiloblas
+call kilo

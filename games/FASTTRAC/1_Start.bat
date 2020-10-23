@@ -1,0 +1,2 @@
+cd fastrak
+ft2

@@ -1,0 +1,11 @@
+@echo off
+cls
+type sound.txt
+ask
+IF ERRORLEVEL 1 SET S=A
+IF ERRORLEVEL 2 SET S=X
+IF ERRORLEVEL 3 SET S=M
+IF ERRORLEVEL 4 SET S=I
+
+vgagolf %S%
+

@@ -1,0 +1,2 @@
+cd Kaos
+kaos

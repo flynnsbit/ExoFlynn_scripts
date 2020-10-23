@@ -1,0 +1,2 @@
+cd Starduel
+starduel

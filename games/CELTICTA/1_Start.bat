@@ -1,0 +1,2 @@
+cd celttale
+call run

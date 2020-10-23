@@ -1,0 +1,2 @@
+cd amaztrai
+call run

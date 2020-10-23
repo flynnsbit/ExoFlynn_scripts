@@ -1,0 +1,2 @@
+cd calcman
+CALC-MAN

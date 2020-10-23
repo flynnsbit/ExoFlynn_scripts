@@ -1,0 +1,2 @@
+cd cadavpay
+call run

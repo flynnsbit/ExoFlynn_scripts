@@ -1,0 +1,2 @@
+@sm.exe
+@pcdizzy.exe

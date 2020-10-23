@@ -1,0 +1,1 @@
+@FOR %%X IN (*.ASL) DO CALL ASL2LO %%X >NUL

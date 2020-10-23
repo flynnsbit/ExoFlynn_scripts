@@ -1,0 +1,2 @@
+cd WorldTo
+call run

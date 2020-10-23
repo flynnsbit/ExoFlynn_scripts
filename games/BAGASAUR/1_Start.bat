@@ -1,0 +1,2 @@
+cd Bagasaur
+call BAGGY

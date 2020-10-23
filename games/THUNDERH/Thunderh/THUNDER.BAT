@@ -1,0 +1,7 @@
+ECHO OFF
+CLS
+INTRO
+CLS
+GAME
+
+

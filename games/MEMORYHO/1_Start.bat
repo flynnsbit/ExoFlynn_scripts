@@ -1,0 +1,2 @@
+cd MemoryH
+call play

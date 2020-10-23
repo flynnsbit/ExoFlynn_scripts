@@ -1,0 +1,2 @@
+cd MonsterM
+call runme

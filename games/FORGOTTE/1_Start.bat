@@ -1,0 +1,2 @@
+cd Forgotte
+fw

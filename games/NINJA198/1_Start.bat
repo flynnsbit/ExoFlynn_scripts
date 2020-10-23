@@ -1,0 +1,2 @@
+cd Ninja
+call ninja

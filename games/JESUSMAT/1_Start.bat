@@ -1,0 +1,2 @@
+cd jesusmu
+JESUSMUP /FM

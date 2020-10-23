@@ -1,0 +1,2 @@
+cd OlmangJo
+para

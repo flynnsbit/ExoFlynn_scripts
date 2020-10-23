@@ -1,0 +1,2 @@
+cd hoc
+call run

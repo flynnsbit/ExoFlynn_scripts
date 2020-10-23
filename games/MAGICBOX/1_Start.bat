@@ -1,0 +1,2 @@
+cd MagicBox
+MAGICBOX

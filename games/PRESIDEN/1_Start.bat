@@ -1,0 +1,2 @@
+cd Presiden
+start

@@ -1,0 +1,2 @@
+subst a .
+bionic.exe

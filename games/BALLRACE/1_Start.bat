@@ -1,0 +1,2 @@
+cd ballrace
+balls10

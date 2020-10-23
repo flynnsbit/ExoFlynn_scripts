@@ -1,0 +1,2 @@
+cd Twiz
+WIZARDS

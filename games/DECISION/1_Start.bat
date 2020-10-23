@@ -1,0 +1,2 @@
+cd DecatGet
+call WARGAME

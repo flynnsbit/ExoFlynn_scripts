@@ -1,0 +1,1 @@
+@BATTLE2.EXE ENG %1 %2 %3

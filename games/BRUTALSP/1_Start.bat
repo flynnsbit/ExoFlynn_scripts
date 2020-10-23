@@ -1,0 +1,2 @@
+cd BrutalSp
+call brutal

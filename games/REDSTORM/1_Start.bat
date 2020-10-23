@@ -1,0 +1,2 @@
+cd RedStorm
+call run

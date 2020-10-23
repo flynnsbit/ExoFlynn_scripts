@@ -1,0 +1,2 @@
+cd afridscp
+africa

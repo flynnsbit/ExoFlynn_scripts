@@ -1,0 +1,2 @@
+cd Goonies
+goonies

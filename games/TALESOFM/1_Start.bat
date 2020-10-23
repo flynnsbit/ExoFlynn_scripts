@@ -1,0 +1,2 @@
+cd TalesOfM
+call run

@@ -1,0 +1,2 @@
+cd custcomm
+clc

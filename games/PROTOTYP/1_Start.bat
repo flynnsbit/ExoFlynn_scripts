@@ -1,0 +1,2 @@
+cd ProtoTyp
+call games

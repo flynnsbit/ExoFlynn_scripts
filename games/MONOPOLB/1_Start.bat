@@ -1,0 +1,2 @@
+cd MonopDLX
+call run

@@ -1,0 +1,2 @@
+cd DieHard
+call diehard

@@ -1,0 +1,2 @@
+cd Llamatro
+call run

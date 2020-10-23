@@ -1,0 +1,2 @@
+cd StormMas
+storm

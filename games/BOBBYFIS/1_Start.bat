@@ -1,0 +1,2 @@
+cd BobbyFis
+bftc sound

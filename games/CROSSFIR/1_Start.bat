@@ -1,0 +1,2 @@
+cd Crossfir
+call run

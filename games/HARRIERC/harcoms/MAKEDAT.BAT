@@ -1,0 +1,2 @@
+copy a:*.dat b:
+

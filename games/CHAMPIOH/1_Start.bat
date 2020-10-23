@@ -1,0 +1,2 @@
+cd champmn
+call run

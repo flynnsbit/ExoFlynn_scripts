@@ -1,0 +1,2 @@
+cd AnimMony
+call money

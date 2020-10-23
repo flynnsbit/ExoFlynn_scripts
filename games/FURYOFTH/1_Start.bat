@@ -1,0 +1,2 @@
+cd Furyofth
+call go

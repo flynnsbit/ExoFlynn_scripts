@@ -1,0 +1,2 @@
+cd mariosgg
+call run

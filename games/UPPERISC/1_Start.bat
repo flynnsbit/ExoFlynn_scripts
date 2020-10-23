@@ -1,0 +1,2 @@
+cd UpPerisc
+p-up

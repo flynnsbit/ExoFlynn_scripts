@@ -1,0 +1,2 @@
+cd TMNTMM
+call run

@@ -1,0 +1,2 @@
+cd Snaker
+snaker

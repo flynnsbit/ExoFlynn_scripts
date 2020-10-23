@@ -1,0 +1,1 @@
+set eternity=eternity

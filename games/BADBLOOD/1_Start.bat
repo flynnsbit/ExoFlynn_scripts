@@ -1,0 +1,2 @@
+cd BadBlood
+call run

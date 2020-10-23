@@ -1,0 +1,2 @@
+cd Iceman
+call run

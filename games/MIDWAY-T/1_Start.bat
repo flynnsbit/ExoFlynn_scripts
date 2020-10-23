@@ -1,0 +1,2 @@
+cd MidwayT
+call action

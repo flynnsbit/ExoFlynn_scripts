@@ -1,0 +1,2 @@
+cd PaladinI
+call run

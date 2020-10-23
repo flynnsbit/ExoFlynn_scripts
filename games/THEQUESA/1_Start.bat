@@ -1,0 +1,2 @@
+cd QftC
+call run

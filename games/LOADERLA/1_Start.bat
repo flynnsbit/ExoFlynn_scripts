@@ -1,0 +1,2 @@
+cd loadlary
+LOADLAR.EXE

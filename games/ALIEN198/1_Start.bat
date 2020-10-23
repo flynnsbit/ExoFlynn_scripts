@@ -1,0 +1,2 @@
+cd alienif
+call alien

@@ -1,0 +1,2 @@
+cd SuprCyb
+call SUPERCYB

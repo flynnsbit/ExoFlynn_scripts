@@ -1,0 +1,2 @@
+cd CoolSpot
+spot

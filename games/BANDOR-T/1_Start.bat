@@ -1,0 +1,2 @@
+cd BandorSK
+call run

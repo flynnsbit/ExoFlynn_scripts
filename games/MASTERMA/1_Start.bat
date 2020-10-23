@@ -1,0 +1,2 @@
+cd MasterM
+MMINER

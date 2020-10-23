@@ -1,0 +1,2 @@
+cd StrtRods
+call run

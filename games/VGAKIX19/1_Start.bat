@@ -1,0 +1,2 @@
+cd VGAKix
+kix

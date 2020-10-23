@@ -1,0 +1,3 @@
+C:
+CD \TOM\ROBOT1
+ROBOT1

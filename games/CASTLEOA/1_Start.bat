@@ -1,0 +1,2 @@
+cd castkroz
+castle

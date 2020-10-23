@@ -1,0 +1,2 @@
+cd curse
+call run

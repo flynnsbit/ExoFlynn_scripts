@@ -1,0 +1,2 @@
+cd Tesserae
+call tess

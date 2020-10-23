@@ -1,0 +1,2 @@
+cd Castleva
+call run

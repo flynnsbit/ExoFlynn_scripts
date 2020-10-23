@@ -1,0 +1,2 @@
+cd jquestmw
+call run

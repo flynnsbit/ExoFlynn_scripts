@@ -1,0 +1,2 @@
+cd Shultzs
+call autoexec

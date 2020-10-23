@@ -1,0 +1,6 @@
+CLS
+ECHO OFF
+CLS
+P
+I
+

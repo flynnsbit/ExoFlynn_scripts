@@ -1,0 +1,2 @@
+cd Elf
+call run

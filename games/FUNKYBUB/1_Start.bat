@@ -1,0 +1,2 @@
+cd FunkyPuz
+call run

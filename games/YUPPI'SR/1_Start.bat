@@ -1,0 +1,2 @@
+cd YuppisR
+yuppi

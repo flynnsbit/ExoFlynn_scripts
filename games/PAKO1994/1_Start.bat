@@ -1,0 +1,2 @@
+cd Pako
+pako

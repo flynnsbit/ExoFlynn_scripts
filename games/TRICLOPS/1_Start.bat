@@ -1,0 +1,2 @@
+cd Triclops
+tr

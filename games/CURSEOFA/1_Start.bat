@@ -1,0 +1,2 @@
+cd Curseoft
+call run

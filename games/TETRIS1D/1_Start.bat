@@ -1,0 +1,2 @@
+cd Tetris96
+TETRIS.EXE

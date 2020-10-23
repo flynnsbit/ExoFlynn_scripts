@@ -1,0 +1,2 @@
+cd SSON
+call run

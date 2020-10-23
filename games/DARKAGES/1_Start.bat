@@ -1,0 +1,2 @@
+cd DarkAges
+call run

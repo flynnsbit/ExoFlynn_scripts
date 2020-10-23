@@ -1,0 +1,2 @@
+cd QikServ
+QIKSERVE

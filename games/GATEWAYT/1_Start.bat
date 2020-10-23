@@ -1,0 +1,2 @@
+cd gatesf
+call run

@@ -1,0 +1,2 @@
+cd logical
+call logical

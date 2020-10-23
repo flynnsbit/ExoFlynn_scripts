@@ -1,0 +1,2 @@
+cd SquarezD
+SQUAREZ

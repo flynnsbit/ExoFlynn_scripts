@@ -1,0 +1,2 @@
+cd SimpArc
+call simpsons

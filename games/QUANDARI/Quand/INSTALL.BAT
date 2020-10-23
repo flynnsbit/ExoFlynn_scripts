@@ -1,0 +1,21 @@
+CLS
+ECHO OFF
+MD C:\ETHICS
+COPY DIRCHK.DAT C:\ETHICS
+IF EXIST C:\ETHICS\DIRCHK.DAT GOTO CONT
+ECHO The WRALC/JA installation program will not work on your computer.
+ECHO .
+ECHO Please call Duane Sutton at 926-3961 x-132 for further assistance.
+ECHO .
+ECHO Thank you.
+ECHO .
+PAUSE
+GOTO END
+:CONT
+ERASE C:\ETHICS\DIRCHK.DAT
+COPY *.* C:\ETHICS
+COPY ETP.PIF C:\WINDOWS\DESKTOP
+C:
+CD\ETHICS
+ETP
+:END

@@ -1,0 +1,2 @@
+cd Prophecy
+call run

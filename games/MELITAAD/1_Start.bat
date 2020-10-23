@@ -1,0 +1,2 @@
+cd MelitaAd
+call run

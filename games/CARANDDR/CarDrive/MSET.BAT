@@ -1,0 +1,5 @@
+@echo off
+MS
+IF ERRORLEVEL 1 GOTO END
+MODEM
+:END

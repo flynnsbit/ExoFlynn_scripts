@@ -1,0 +1,2 @@
+cd SStarSoc
+play.com

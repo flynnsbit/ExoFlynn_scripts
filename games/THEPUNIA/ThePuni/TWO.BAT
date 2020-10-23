@@ -1,0 +1,1 @@
+set eternity=b:eternity

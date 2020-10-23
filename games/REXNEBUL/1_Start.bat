@@ -1,0 +1,2 @@
+cd rexneb
+call run

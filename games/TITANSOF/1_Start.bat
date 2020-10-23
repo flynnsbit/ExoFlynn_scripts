@@ -1,0 +1,2 @@
+cd TitOStel
+call tos

@@ -1,0 +1,2 @@
+cd phnumb
+call start

@@ -1,0 +1,3 @@
+cd Ultris
+setup
+ultris

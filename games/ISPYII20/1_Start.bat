@@ -1,0 +1,2 @@
+cd ispyii
+call run

@@ -1,0 +1,2 @@
+cd TheWildS
+call science

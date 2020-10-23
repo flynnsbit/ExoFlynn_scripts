@@ -1,0 +1,1 @@
+@czytaj.exe spy.doc

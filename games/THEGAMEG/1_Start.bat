@@ -1,0 +1,2 @@
+cd TGameSmE
+loadfix thegames

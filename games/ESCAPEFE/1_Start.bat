@@ -1,0 +1,2 @@
+cd EscEli
+call eli

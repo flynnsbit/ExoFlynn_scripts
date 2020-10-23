@@ -1,0 +1,2 @@
+cd sovunsa
+call run

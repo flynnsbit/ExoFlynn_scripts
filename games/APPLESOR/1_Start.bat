@@ -1,0 +1,2 @@
+cd apploran
+APP&ORG

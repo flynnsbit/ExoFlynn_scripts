@@ -1,0 +1,17 @@
+@echo off
+SET DOS4G=QUIET
+__ %1 %2 %3 %4 %5 %6 %7 %8 %9 
+_  %1 %2 %3 %4 %5 %6 %7 %8 %9
+:LEVEL3
+if ERRORLEVEL 3 GOTO PWIN
+GOTO LEVEL2
+:PWIN
+__ /PWIN %1 %2 %3 %4 %5 %6 %7 %8 %9
+GOTO END
+:LEVEL2
+if ERRORLEVEL 2 GOTO PLOS
+GOTO END
+:PLOS
+__ /PLOS %1 %2 %3 %4 %5 %6 %7 %8 %9
+:END
+echo on

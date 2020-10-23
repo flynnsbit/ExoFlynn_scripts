@@ -1,0 +1,1 @@
+grasprt amult amult /nosvga

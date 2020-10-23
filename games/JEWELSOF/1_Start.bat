@@ -1,0 +1,2 @@
+cd jewldark
+menu

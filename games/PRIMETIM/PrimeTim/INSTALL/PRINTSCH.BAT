@@ -1,0 +1,15 @@
+echo off
+cls
+echo.
+echo.
+echo    PRINT "Network Show Scheduling Work Sheet" FILE.
+ECHO.
+ECHO    BE SURE YOUR PRINTER HAS PAPER AND IS ONLINE.
+ECHO.
+PAUSE
+TYPE NETPLAN.TXT > LPT1
+ECHO.
+ECHO.
+ECHO    TV MOGUL Printing IS COMPLETE.
+PAUSE
+CLS

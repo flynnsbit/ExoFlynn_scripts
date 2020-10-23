@@ -1,0 +1,2 @@
+cd arthurqe
+call arthur

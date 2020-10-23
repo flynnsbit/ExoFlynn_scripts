@@ -1,0 +1,2 @@
+cd StickWik
+SW

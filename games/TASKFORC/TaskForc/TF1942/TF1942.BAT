@@ -1,0 +1,17 @@
+@echo off
+SET SOUND_CARD=
+SET SOUND_DRV=
+SET SOUND_ADRS=
+cls
+getvars
+if ERRORLEVEL 1 goto DONE
+call vars.bat
+:GAME
+play /M /J /K /X mps_logo.scr /S%SOUND_CARD% /A%SOUND_ADRS% %SOUND_DRV%SOUND.LOG
+play /M /J /K /X tf1942.scr /S%SOUND_CARD% /A%SOUND_ADRS% %SOUND_DRV%SOUND.TF
+tf
+mode co80
+:DONE
+SET SOUND_CARD=
+SET SOUND_DRV=
+SET SOUND_ADRS=

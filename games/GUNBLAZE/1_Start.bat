@@ -1,0 +1,2 @@
+cd gunblaze
+call run

@@ -1,0 +1,2 @@
+cd FireandF
+game

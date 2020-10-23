@@ -1,0 +1,2 @@
+cd Cheonha
+call run

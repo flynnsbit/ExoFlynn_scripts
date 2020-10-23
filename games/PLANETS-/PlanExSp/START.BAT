@@ -1,0 +1,29 @@
+@ECHO OFF
+REM Use the following lines if you wish to switch to the TEOS dir in this
+REM batch file - remove REM in front of the following to lines if you do.
+
+REM CD C:
+REM CD \DOORS\TEOS
+
+IF "%1" == "" GOTO NOSTART
+IF EXIST INFO.%1 DEL INFO.%1
+IF EXIST DO%1.BAT DEL DO%1.BAT
+
+:BEGIN
+PLANETS.EXE %1 %2 %3 %4 %5 /DREW
+IF ERRORLEVEL 255 GOTO DONE
+IF ERRORLEVEL 254 GOTO DO1
+GOTO DONE
+
+:DO1
+CALL DO%1.BAT
+GOTO BEGIN
+
+:NOSTART
+CALL START.BAT 0
+GOTO REALDONE
+:DONE
+IF EXIST INFO.%1 DEL INFO.%1
+IF EXIST DO%1.BAT DEL DO%1.BAT
+
+:REALDONE

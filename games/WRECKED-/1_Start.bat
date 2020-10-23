@@ -1,0 +1,2 @@
+cd wrekpsad
+wreck

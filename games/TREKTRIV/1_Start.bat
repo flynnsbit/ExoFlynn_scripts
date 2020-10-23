@@ -1,0 +1,2 @@
+cd TrekTriv
+call run

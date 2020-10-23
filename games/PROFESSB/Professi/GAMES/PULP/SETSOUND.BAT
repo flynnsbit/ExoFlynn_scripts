@@ -1,0 +1,3 @@
+cd sdrivers
+setsound
+cd ..

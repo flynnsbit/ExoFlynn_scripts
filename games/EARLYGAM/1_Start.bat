@@ -1,0 +1,2 @@
+cd EGYChil
+call AUTOEXEC

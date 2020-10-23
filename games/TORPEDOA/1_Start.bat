@@ -1,0 +1,2 @@
+cd TorpAlly
+call torpedo

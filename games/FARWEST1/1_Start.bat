@@ -1,0 +1,2 @@
+cd FarWest
+call FARWEST

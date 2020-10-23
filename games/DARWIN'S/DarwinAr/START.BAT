@@ -1,0 +1,19 @@
+ECHO OFF
+CLS
+ECHO   ******************
+ECHO   * Darwin's Arena *
+ECHO   ******************
+ECHO   Press (1) for Tandy 1000 series (not RLX)
+ECHO   Press (2) for any other PC
+:REPEAT
+READCODE
+IF ERRORLEVEL 51 GOTO REPEAT
+IF ERRORLEVEL 50 GOTO OTHER
+IF ERRORLEVEL 49 GOTO TANDY
+:OTHER
+DARWINS
+GOTO END
+:TANDY
+GRAFIX
+DARWIN16
+:END

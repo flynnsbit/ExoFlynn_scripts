@@ -1,0 +1,2 @@
+cd Shufflep
+shuffle

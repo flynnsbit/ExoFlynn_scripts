@@ -1,0 +1,2 @@
+cd GoldRush
+sierra -t

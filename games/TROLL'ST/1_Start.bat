@@ -1,0 +1,2 @@
+cd troltale
+troll.com

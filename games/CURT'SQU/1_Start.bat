@@ -1,0 +1,2 @@
+cd curtques
+call run

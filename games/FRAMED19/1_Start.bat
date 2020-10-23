@@ -1,0 +1,2 @@
+cd framadv
+framed

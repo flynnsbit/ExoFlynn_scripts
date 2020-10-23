@@ -1,0 +1,2 @@
+cd Universa
+call run

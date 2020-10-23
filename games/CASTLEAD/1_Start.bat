@@ -1,0 +1,2 @@
+cd castadv
+castle

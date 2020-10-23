@@ -1,0 +1,2 @@
+cd Tchick
+chicken

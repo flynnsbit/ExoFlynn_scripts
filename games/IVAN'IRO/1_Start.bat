@@ -1,0 +1,2 @@
+cd IvanIro
+call ironman

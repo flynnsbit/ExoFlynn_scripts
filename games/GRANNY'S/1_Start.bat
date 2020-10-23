@@ -1,0 +1,2 @@
+cd granny
+granny

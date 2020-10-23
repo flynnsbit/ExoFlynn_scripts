@@ -1,0 +1,2 @@
+cd ArcherMa
+call cdgo

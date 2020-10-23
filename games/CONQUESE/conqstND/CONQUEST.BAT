@@ -1,0 +1,2 @@
+set DOS4GVM=MAXMEM#16000000
+cnwmain

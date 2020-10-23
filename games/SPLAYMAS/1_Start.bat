@@ -1,0 +1,2 @@
+cd SplayMas
+splay

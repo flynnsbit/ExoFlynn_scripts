@@ -1,0 +1,2 @@
+cd BaronVE
+EVILMAZE.EXE

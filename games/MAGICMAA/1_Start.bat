@@ -1,0 +1,2 @@
+cd MagMayC
+call run

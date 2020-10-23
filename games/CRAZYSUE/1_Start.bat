@@ -1,0 +1,2 @@
+cd CrazySue
+game-a

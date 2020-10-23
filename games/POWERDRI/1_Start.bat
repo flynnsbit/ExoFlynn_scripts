@@ -1,0 +1,2 @@
+cd PowDrift
+call run

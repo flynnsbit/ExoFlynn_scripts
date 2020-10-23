@@ -1,0 +1,2 @@
+cd NigelMan
+call nmwc

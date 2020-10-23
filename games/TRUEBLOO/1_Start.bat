@@ -1,0 +1,2 @@
+cd trueblud
+call start

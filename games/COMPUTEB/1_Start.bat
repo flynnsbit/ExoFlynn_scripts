@@ -1,0 +1,2 @@
+cd compdipl
+diplo

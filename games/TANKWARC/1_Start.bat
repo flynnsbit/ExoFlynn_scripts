@@ -1,0 +1,2 @@
+cd TnkWar95
+TANK_ENG.EXE

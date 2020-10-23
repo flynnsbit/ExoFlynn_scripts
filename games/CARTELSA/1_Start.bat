@@ -1,0 +1,2 @@
+cd caracutt
+call go

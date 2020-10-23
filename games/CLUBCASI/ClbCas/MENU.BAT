@@ -1,0 +1,64 @@
+echo off
+verify on
+cls
+
+:start
+echo.                °±²Û PRISM LEISURE CORPORATION Û²±°
+echo.
+echo.                          CLUB CASINO
+ECHO.
+ECHO.
+ECHO.
+ECHO.                   [1]     ROULETTE
+ECHO.
+ECHO.                   [2]     POKER
+ECHO.
+ECHO.                   [3]     CRAPS
+ECHO.
+ECHO.                   [4]     BLACKJACK
+ECHO.
+ECHO.                   [X]     EXIT TO DOS
+ECHO.
+ECHO.
+ECHO.                  INPUT YOUR CHOICE..........
+ECHO.
+ECHO.
+CHOOSE X1234
+IF ERRORLEVEL 5 GOTO BLACKJACK
+IF ERRORLEVEL 4 GOTO CRAPS
+IF ERRORLEVEL 3 GOTO POKER
+IF ERRORLEVEL 2 GOTO ROULETTE
+GOTO :DOS
+
+
+:BLACKJACK
+CLS
+ECHO OFF
+BJ
+CLS
+MENU
+
+:CRAPS
+CLS
+ECHO OFF
+CRAPS
+CLS
+MENU
+
+:POKER
+CLS
+ECHO OFF
+POKER
+CLS
+MENU
+
+:ROULETTE
+CLS
+ECHO OFF
+ROULETTE
+CLS
+MENU
+
+:DOS
+CLS
+

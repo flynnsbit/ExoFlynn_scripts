@@ -1,0 +1,4 @@
+@SET 2029DATA=C:\2029_CD
+@D:
+@cd \
+@T -Ssbpdig.adv -IOS220 -IRQS7 -DMAS1 -Msbp1fm.adv -IOM220 -IRQM7 -DMAM1

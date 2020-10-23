@@ -1,0 +1,9 @@
+@echo off
+cls
+echo.
+echo    THIS WILL PRINT THE ORDER FORM FOR 123-TALK.
+echo    PLEASE, TURN YOUR PRINTER ON.
+echo.
+PAUSE
+PRINT ORDER.FRM
+

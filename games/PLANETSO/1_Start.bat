@@ -1,0 +1,2 @@
+cd PlanetS
+call go

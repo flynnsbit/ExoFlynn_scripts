@@ -1,0 +1,2 @@
+cd Weebee
+weebee

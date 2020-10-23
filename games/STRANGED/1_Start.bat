@@ -1,0 +1,2 @@
+cd StrngDay
+play strange

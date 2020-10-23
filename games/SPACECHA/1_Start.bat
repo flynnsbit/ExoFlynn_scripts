@@ -1,0 +1,2 @@
+cd SpaceCha
+call run

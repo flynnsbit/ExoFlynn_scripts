@@ -1,0 +1,2 @@
+cd Thexder
+THEXDER

@@ -1,0 +1,4 @@
+@SET DELTAVDATA=C:\DELTAV_CD
+@D:
+@cd \
+@D -Ssbpdig.adv -IOS220 -IRQS7 -DMAS1 -Msbp1fm.adv -IOM220 -IRQM7 -DMAM1

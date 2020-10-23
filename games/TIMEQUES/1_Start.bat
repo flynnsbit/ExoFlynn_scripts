@@ -1,0 +1,2 @@
+cd tquest
+call run

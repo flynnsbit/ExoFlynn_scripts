@@ -1,0 +1,2 @@
+cd bublcrk
+BUSTMOVE.EXE

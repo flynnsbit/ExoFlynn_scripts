@@ -1,0 +1,2 @@
+cd missmain
+mission

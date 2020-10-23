@@ -1,0 +1,2 @@
+cd EGARoid
+egaroids

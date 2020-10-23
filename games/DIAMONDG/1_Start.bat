@@ -1,0 +1,2 @@
+cd Dgrabber
+call run

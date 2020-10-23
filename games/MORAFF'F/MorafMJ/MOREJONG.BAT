@@ -1,0 +1,2 @@
+del mjvideo.cfg
+mjskip

@@ -1,0 +1,2 @@
+cd hook
+call run

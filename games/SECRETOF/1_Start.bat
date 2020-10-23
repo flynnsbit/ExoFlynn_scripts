@@ -1,0 +1,2 @@
+cd secsilbl
+call run

@@ -1,0 +1,2 @@
+cd bridgoly
+call bo

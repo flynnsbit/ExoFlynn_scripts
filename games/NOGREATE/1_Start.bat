@@ -1,0 +1,2 @@
+cd NoGreate
+call GLORYEGA

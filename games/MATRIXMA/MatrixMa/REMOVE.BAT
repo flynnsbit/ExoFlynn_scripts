@@ -1,0 +1,2 @@
+REM Reset scores
+BASICA REMOVE

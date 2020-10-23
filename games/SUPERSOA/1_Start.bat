@@ -1,0 +1,2 @@
+cd SSTGalx
+call tgx

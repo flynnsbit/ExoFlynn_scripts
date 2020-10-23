@@ -1,0 +1,2 @@
+cd fronline
+call run

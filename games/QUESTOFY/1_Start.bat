@@ -1,0 +1,2 @@
+cd QuesYog
+quest

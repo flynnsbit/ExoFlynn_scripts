@@ -1,0 +1,2 @@
+cd LuigiSpa
+call topo

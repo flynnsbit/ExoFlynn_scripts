@@ -1,0 +1,2 @@
+cd mystsong
+msong

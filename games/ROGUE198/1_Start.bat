@@ -1,0 +1,2 @@
+cd rogue
+rogue

@@ -1,0 +1,2 @@
+cd WWDtCTG
+call THE-GAME

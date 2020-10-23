@@ -1,0 +1,2 @@
+cd HexenDea
+call run

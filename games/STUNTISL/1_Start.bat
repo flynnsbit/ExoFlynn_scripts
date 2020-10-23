@@ -1,0 +1,2 @@
+cd StuntIsl
+call run

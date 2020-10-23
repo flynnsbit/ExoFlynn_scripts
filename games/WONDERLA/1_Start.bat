@@ -1,0 +1,2 @@
+cd wland
+call run

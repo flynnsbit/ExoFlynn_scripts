@@ -1,0 +1,2 @@
+cd Astro-Gr
+ctw

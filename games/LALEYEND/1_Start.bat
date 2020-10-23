@@ -1,0 +1,2 @@
+cd LaLeyend
+call VIKINGO

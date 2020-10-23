@@ -1,0 +1,2 @@
+cd MineSwep
+MNSW.EXE

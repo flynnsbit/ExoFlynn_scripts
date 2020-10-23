@@ -1,0 +1,2 @@
+cd ShawNM
+call run

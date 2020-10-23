@@ -1,0 +1,2 @@
+cd Desafio
+call DESAFIO

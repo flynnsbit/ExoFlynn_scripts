@@ -1,0 +1,2 @@
+cd disccolu
+discover

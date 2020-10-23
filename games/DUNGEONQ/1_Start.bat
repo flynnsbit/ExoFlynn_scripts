@@ -1,0 +1,2 @@
+cd dquest
+call start

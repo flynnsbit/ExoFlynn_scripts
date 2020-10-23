@@ -1,0 +1,2 @@
+cd Hurdles
+HURDLES.EXE

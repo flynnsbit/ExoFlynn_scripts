@@ -1,0 +1,2 @@
+cd PickleWa
+call run

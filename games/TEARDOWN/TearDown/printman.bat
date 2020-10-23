@@ -1,0 +1,2 @@
+type manual.txt > prn
+

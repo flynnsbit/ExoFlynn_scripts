@@ -1,0 +1,2 @@
+cd SonyGame
+call sony

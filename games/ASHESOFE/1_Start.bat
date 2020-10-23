@@ -1,0 +1,2 @@
+cd ashempi
+call run

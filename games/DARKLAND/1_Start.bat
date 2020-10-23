@@ -1,0 +1,2 @@
+cd darkland
+call run

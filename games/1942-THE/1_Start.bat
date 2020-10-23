@@ -1,0 +1,3 @@
+cd 1942PAW
+JEMMEX FRAME=E000 LOAD
+call run

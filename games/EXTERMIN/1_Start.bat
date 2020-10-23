@@ -1,0 +1,2 @@
+cd Extermin
+call run

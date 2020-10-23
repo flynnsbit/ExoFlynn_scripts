@@ -1,0 +1,3 @@
+MODE ,R
+BASICA HOSER.BAS
+

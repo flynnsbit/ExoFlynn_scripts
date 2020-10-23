@@ -1,0 +1,2 @@
+cd Warinthe
+call run

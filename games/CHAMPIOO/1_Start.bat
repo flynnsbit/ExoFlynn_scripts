@@ -1,0 +1,2 @@
+cd chmpmnes
+call run

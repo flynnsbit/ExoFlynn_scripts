@@ -1,0 +1,2 @@
+cd Puzznic
+call run

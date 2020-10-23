@@ -1,0 +1,2 @@
+cd kristal
+call vga

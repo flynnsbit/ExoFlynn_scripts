@@ -1,0 +1,2 @@
+cd DiscSpac
+call run

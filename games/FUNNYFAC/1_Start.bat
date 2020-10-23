@@ -1,0 +1,2 @@
+cd FunnyFac
+call run

@@ -1,0 +1,2 @@
+cd SPokrPro
+call strip

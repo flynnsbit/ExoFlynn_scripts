@@ -1,0 +1,2 @@
+cd PacPC95
+PACPC

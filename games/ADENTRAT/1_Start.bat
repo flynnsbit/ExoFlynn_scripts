@@ -1,0 +1,2 @@
+cd Adentrat
+call ADENTRA

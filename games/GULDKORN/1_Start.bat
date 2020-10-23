@@ -1,0 +1,2 @@
+cd Guldkorn
+ota

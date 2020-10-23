@@ -1,0 +1,2 @@
+cd averno
+call AVERNO

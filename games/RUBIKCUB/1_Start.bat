@@ -1,0 +1,2 @@
+cd RubikCub
+RUBIK-S

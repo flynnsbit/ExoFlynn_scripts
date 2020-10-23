@@ -1,0 +1,1 @@
+twars.exe -bornspeed 25 -enemy 1 -enemynum 4

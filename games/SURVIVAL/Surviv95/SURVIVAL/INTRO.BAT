@@ -1,0 +1,14 @@
+if exist c:\intro\intro.smk SMACKPLY C:\INTRO\INTRO /F15 /N
+if exist d:\intro\intro.smk SMACKPLY D:\INTRO\INTRO /F15 /N
+if exist e:\intro\intro.smk SMACKPLY E:\INTRO\INTRO /F15 /N
+if exist f:\intro\intro.smk SMACKPLY F:\INTRO\INTRO /F15 /N
+if exist g:\intro\intro.smk SMACKPLY G:\INTRO\INTRO /F15 /N
+if exist h:\intro\intro.smk SMACKPLY H:\INTRO\INTRO /F15 /N
+if exist i:\intro\intro.smk SMACKPLY I:\INTRO\INTRO /F15 /N
+if exist j:\intro\intro.smk SMACKPLY J:\INTRO\INTRO /F15 /N
+if exist k:\intro\intro.smk SMACKPLY K:\INTRO\INTRO /F15 /N
+if exist l:\intro\intro.smk SMACKPLY L:\INTRO\INTRO /F15 /N
+if exist m:\intro\intro.smk SMACKPLY M:\INTRO\INTRO /F15 /N
+if exist n:\intro\intro.smk SMACKPLY N:\INTRO\INTRO /F15 /N
+if exist o:\intro\intro.smk SMACKPLY O:\INTRO\INTRO /F15 /N
+if exist p:\intro\intro.smk SMACKPLY P:\INTRO\INTRO /F15 /N

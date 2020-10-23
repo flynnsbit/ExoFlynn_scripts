@@ -1,0 +1,2 @@
+cd CompBase
+call go

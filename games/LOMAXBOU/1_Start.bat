@@ -1,0 +1,2 @@
+cd LomaxBou
+call run

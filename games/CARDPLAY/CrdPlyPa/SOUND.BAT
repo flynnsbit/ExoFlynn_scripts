@@ -1,0 +1,2 @@
+cd dig
+sound.bat

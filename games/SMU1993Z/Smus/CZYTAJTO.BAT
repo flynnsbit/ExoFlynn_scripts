@@ -1,0 +1,1 @@
+@czytaj.exe smus.doc

@@ -1,0 +1,2 @@
+cd Evasive
+call run

@@ -1,0 +1,2 @@
+cd StrtSpSo
+loadfix sss

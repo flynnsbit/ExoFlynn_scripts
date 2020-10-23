@@ -1,0 +1,2 @@
+cd Thinking
+call go

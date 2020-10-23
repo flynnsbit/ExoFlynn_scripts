@@ -1,0 +1,2 @@
+cd AssTroop
+call ASSAULT

@@ -1,0 +1,2 @@
+cd WarCon
+call wcs

@@ -1,0 +1,4 @@
+echo off
+CLS
+egagame
+ 

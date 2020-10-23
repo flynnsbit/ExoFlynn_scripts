@@ -1,0 +1,2 @@
+cd JimmyWhi
+call snooker

@@ -1,0 +1,2 @@
+cd campgofo
+camp6

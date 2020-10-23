@@ -1,0 +1,2 @@
+cd StarMine
+sm

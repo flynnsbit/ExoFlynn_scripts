@@ -1,0 +1,2 @@
+cd SMRailT
+call rails

@@ -1,0 +1,2 @@
+cd Flightof
+call intruder

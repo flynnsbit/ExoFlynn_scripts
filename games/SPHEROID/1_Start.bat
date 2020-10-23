@@ -1,0 +1,2 @@
+cd Spheroid
+call SPHEROID

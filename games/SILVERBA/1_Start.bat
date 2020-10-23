@@ -1,0 +1,2 @@
+cd Silverba
+call run

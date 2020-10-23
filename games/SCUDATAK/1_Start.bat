@@ -1,0 +1,2 @@
+cd ScudAtak
+scuda2

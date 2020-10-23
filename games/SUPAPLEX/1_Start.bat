@@ -1,0 +1,2 @@
+cd Supaplex
+call run

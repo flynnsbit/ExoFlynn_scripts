@@ -1,0 +1,2 @@
+cd Deathtra
+call run

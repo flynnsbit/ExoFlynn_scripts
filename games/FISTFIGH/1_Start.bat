@@ -1,0 +1,2 @@
+cd FistFite
+call go

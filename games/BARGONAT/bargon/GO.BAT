@@ -1,0 +1,1 @@
+loader mouse lg_gb vga %1 %2

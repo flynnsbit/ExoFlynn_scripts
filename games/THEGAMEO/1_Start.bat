@@ -1,0 +1,2 @@
+cd gameharm
+call run

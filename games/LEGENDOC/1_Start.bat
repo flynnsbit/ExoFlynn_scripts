@@ -1,0 +1,2 @@
+cd llgdemo
+sciv

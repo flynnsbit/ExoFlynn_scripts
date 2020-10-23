@@ -1,0 +1,2 @@
+cd phantasi
+call ph

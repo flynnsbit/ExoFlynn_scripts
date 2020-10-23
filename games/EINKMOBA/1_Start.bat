@@ -1,0 +1,2 @@
+cd EinKmo
+go2

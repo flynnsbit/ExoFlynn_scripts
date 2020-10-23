@@ -1,0 +1,2 @@
+cd doomdark
+REVENGE

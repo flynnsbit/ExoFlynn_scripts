@@ -1,0 +1,2 @@
+cd ViajTera
+call VIAJE

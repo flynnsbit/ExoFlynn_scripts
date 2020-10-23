@@ -1,0 +1,2 @@
+cd batnorm
+call start

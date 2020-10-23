@@ -1,0 +1,2 @@
+cd ElfLand
+call run

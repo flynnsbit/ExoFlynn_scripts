@@ -1,0 +1,2 @@
+cd Chronicl
+call run

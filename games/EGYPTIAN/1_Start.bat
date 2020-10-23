@@ -1,0 +1,2 @@
+cd EgypSoli
+egypt

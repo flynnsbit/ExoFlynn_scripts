@@ -1,0 +1,2 @@
+cd civilwar
+call runme

@@ -1,0 +1,2 @@
+cd BobHamst
+bob

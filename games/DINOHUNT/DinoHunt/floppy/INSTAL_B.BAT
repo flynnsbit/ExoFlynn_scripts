@@ -1,0 +1,26 @@
+ECHO OFF
+CLS
+C:
+CD\
+MD DINO                                
+CD\DINO
+MD GAM
+MD GIF
+COPY B:*.*
+CD GAM
+COPY B:*.TXT
+COPY B:*.GAM
+CD..
+CD GIF
+COPY B:*.GIF
+COPY B:*.BKD
+CD..
+DEL DINOHUNT.EXE 
+DEL INSTAL*.*
+CLS
+TYPE REP.DOC
+DEL REP.DOC
+CD\
+
+
+

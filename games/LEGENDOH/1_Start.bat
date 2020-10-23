@@ -1,0 +1,2 @@
+cd legswor
+call start

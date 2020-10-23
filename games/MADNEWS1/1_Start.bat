@@ -1,0 +1,2 @@
+cd madnews
+call mn

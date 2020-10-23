@@ -1,0 +1,2 @@
+cd Airstrik
+usa1

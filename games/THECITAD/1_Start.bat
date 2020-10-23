@@ -1,0 +1,2 @@
+cd CitPersh
+call CITADEL

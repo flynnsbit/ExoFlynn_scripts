@@ -1,0 +1,2 @@
+cd DragonSp
+call play

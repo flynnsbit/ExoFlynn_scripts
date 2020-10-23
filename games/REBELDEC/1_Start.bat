@@ -1,0 +1,2 @@
+cd RebelDec
+call run

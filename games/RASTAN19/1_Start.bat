@@ -1,0 +1,2 @@
+cd Rastan
+call run

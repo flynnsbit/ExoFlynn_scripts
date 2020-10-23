@@ -1,0 +1,2 @@
+cd Kingsoft
+call start

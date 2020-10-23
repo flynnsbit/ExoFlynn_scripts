@@ -1,0 +1,2 @@
+cd SlicksnS
+call start

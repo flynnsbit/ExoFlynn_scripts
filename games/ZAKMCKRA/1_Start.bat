@@ -1,0 +1,2 @@
+cd zak
+zak

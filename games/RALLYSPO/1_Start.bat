@@ -1,0 +1,2 @@
+cd RallySp
+call rally

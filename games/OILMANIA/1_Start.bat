@@ -1,0 +1,2 @@
+cd Oilmania
+om.exe

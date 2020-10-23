@@ -1,0 +1,2 @@
+cd MrBlobby
+call run

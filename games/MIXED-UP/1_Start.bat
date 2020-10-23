@@ -1,0 +1,2 @@
+cd mufairy
+call run

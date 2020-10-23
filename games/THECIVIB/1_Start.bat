@@ -1,0 +1,2 @@
+cd TCWMPE
+call civil

@@ -1,0 +1,2 @@
+cd SangoFig
+call run

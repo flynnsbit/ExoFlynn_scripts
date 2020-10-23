@@ -1,0 +1,2 @@
+cd BRmatrix
+call run

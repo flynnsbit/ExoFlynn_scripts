@@ -1,0 +1,2 @@
+cd TraconAi
+tracon

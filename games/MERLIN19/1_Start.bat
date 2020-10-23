@@ -1,0 +1,2 @@
+cd Merlin95
+MERLIN.EXE

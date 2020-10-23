@@ -1,0 +1,2 @@
+cd MMMurdD
+call runme

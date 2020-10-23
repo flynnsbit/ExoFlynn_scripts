@@ -1,0 +1,2 @@
+cd FrankoTh
+call franko

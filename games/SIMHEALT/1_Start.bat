@@ -1,0 +1,2 @@
+cd SimHealt
+call run

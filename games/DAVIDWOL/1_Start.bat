@@ -1,0 +1,2 @@
+cd DavidWol
+call run

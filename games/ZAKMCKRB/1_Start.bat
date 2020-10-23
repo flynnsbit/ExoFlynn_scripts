@@ -1,0 +1,2 @@
+cd ZakEnh
+call start

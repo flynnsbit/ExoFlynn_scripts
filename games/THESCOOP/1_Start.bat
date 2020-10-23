@@ -1,0 +1,2 @@
+cd scoop
+scoop

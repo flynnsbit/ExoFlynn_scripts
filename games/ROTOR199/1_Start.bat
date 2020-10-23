@@ -1,0 +1,2 @@
+cd Rotor
+rotor vga

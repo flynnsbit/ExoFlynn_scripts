@@ -1,0 +1,2 @@
+cd SpacGuar
+call GUARDIAN

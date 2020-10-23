@@ -1,0 +1,2 @@
+cd spacwrek
+call space

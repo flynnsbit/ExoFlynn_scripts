@@ -1,0 +1,2 @@
+cd $takes
+call autoexec

@@ -1,0 +1,2 @@
+cd amaeden
+CALL RUN

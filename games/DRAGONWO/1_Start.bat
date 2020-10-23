@@ -1,0 +1,3 @@
+cd dragworl
+crack
+dgw

@@ -1,0 +1,2 @@
+cd BoJackso
+call run

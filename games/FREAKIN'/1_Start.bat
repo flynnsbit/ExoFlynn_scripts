@@ -1,0 +1,2 @@
+cd freakff
+call run

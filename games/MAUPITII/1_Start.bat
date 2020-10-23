@@ -1,0 +1,2 @@
+cd misland
+call maupiti

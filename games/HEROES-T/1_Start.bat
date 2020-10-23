@@ -1,0 +1,2 @@
+cd HeroesTh
+call run

@@ -1,0 +1,2 @@
+normal.com
+t.exe

@@ -1,0 +1,2 @@
+cd Blastero
+blaster

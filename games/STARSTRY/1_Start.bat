@@ -1,0 +1,2 @@
+cd StarStry
+stryker

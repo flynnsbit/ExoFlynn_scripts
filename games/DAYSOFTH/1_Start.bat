@@ -1,0 +1,2 @@
+cd DaysofTh
+call run

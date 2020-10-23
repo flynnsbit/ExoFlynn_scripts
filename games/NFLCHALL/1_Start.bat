@@ -1,0 +1,2 @@
+cd NFLChall
+call run

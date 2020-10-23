@@ -1,0 +1,2 @@
+cd DRAGforc
+call df

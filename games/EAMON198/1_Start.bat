@@ -1,0 +1,2 @@
+cd eamondx
+call eamondx

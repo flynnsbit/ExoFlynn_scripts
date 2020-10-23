@@ -1,0 +1,2 @@
+cd alptram
+call lti

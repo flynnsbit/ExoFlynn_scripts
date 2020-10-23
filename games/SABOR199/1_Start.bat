@@ -1,0 +1,2 @@
+cd Cathedra
+call goen

@@ -1,0 +1,2 @@
+cd Strategy
+call autoexec

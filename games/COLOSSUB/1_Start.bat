@@ -1,0 +1,2 @@
+cd ColXdrts
+call EDRAUGHT

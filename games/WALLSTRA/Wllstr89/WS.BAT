@@ -1,0 +1,2 @@
+ECHO OFF
+RUN HD C VGA

@@ -1,0 +1,2 @@
+cd CashInva
+call play

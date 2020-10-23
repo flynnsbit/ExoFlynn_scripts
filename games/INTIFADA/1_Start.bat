@@ -1,0 +1,3 @@
+cd Intifada
+ramkey
+intifada

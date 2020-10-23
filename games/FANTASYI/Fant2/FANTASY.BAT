@@ -1,0 +1,12 @@
+ECHO OFF
+CLS
+TYPE README.NOW
+DATA
+CLS
+ECHO                                Loading Program...
+FII OPENING.SIG
+CLS
+ECHO OFF
+CLS
+TYPE README.NOW
+

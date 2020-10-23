@@ -1,0 +1,2 @@
+cd DepthDwe
+call depth

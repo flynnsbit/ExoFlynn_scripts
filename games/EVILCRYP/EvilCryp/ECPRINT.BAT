@@ -1,0 +1,1 @@
+type ec.doc > prn

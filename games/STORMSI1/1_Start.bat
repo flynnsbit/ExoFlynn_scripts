@@ -1,0 +1,2 @@
+cd StormsI
+call storms

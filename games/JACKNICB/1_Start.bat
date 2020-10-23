@@ -1,0 +1,2 @@
+cd JackUGCD
+call run

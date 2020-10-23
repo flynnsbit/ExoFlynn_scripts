@@ -1,0 +1,2 @@
+cd ALFsThin
+call go

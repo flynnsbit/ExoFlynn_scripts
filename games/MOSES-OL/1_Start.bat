@@ -1,0 +1,2 @@
+cd MosesAdv
+call moses

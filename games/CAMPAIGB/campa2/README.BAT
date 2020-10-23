@@ -1,0 +1,2 @@
+type campaign.txt |more
+

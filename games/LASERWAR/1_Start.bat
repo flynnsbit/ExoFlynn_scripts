@@ -1,0 +1,2 @@
+cd laserwar
+LASERWAR.EXE

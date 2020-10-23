@@ -1,0 +1,4 @@
+cd getty
+civilwar
+cd ..
+

@@ -1,0 +1,2 @@
+cd FifPuzz
+call FIFTEEN

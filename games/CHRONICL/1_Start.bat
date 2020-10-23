@@ -1,0 +1,2 @@
+cd CronGali
+AZMR

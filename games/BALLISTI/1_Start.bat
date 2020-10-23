@@ -1,0 +1,2 @@
+cd Ballisti
+ballisti

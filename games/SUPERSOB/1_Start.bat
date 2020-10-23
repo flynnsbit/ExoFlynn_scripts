@@ -1,0 +1,2 @@
+cd SSTMS
+tmprog

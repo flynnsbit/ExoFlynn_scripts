@@ -1,0 +1,2 @@
+cd RaceDriv
+call run

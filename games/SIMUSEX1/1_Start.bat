@@ -1,0 +1,2 @@
+cd SimuSex
+call simusex

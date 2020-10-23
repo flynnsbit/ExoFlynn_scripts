@@ -1,0 +1,2 @@
+cd Bardarts
+bdarts1

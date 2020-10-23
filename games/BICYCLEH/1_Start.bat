@@ -1,0 +1,2 @@
+cd BicyHoli
+call run

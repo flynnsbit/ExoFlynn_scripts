@@ -1,0 +1,4 @@
+@echo off
+crack_re
+LOADER VGA MOUSE LG_GB BLASTER INTRO
+

@@ -1,0 +1,2 @@
+cd sancty
+sanc

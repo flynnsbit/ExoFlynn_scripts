@@ -1,0 +1,2 @@
+cd STComSim
+trek

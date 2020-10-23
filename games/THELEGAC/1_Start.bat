@@ -1,0 +1,2 @@
+cd legacy
+call run

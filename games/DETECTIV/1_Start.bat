@@ -1,0 +1,2 @@
+cd DetAcad
+DA

@@ -1,0 +1,6 @@
+@Echo Off
+D:
+CD D:\
+VOYAGER C:\VOYAGER\MYTHOS.CFG %1 %2 %3
+C:
+CD C:\VOYAGER

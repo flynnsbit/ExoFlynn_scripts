@@ -1,0 +1,2 @@
+cd LPFarm
+call run

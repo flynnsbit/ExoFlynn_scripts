@@ -1,0 +1,2 @@
+cd NeverMin
+nm

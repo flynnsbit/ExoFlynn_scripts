@@ -1,0 +1,2 @@
+cd StreetCa
+loadfix start

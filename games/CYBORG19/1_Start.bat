@@ -1,0 +1,2 @@
+cd cybor
+start

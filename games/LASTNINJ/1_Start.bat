@@ -1,0 +1,2 @@
+cd LastNinj
+ninja

@@ -1,0 +1,2 @@
+cd ScubaSPT
+call start

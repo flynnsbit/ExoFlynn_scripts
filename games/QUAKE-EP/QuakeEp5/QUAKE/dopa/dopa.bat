@@ -1,0 +1,2 @@
+cd..
+winquake -game dopa

@@ -1,0 +1,2 @@
+cd TankeDJu
+call tank

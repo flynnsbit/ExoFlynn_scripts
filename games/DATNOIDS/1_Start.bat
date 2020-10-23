@@ -1,0 +1,2 @@
+cd Datnoids
+call datnoids

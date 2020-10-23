@@ -1,0 +1,2 @@
+cd tsummon
+call run

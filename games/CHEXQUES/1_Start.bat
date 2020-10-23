@@ -1,0 +1,2 @@
+cd ChexQ
+call run

@@ -1,0 +1,2 @@
+cd SWCrick
+DOS96

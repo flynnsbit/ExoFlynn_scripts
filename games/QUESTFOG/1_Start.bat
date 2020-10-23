@@ -1,0 +1,2 @@
+cd QforHuss
+call run

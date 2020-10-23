@@ -1,0 +1,2 @@
+cd hsblues
+call run

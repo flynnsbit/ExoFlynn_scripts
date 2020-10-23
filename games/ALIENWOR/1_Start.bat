@@ -1,0 +1,2 @@
+cd AlienWor
+alien

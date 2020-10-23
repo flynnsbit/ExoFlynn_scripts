@@ -1,0 +1,2 @@
+cd BirdsofP
+call run

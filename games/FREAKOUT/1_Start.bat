@@ -1,0 +1,2 @@
+cd FreakOut
+call freakout

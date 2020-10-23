@@ -1,0 +1,2 @@
+cd Gettybrg
+call runme

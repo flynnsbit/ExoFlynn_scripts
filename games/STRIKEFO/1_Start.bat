@@ -1,0 +1,2 @@
+cd StForHar
+call sfh

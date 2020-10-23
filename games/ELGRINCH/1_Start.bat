@@ -1,0 +1,2 @@
+cd ElGrinch
+call grinch

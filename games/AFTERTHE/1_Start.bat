@@ -1,0 +1,2 @@
+cd Afterthe
+after.com

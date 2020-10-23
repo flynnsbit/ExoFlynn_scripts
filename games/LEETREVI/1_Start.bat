@@ -1,0 +1,3 @@
+cd LeeTrev
+cd LEEGOLF
+PLAYSNK

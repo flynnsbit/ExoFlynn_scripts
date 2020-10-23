@@ -1,0 +1,2 @@
+cd continuu
+call alpha

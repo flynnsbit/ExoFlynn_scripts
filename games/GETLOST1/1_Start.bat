@@ -1,0 +1,2 @@
+cd GetLost
+call run

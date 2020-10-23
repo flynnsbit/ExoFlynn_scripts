@@ -1,0 +1,2 @@
+cd IslCq2
+ISCONQ2

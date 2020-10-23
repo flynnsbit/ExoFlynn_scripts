@@ -1,0 +1,2 @@
+cd SummerCh
+call game

@@ -1,0 +1,2 @@
+cd NumbLogi
+call run

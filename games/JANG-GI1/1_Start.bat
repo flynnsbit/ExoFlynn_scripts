@@ -1,0 +1,2 @@
+cd janggi
+jt

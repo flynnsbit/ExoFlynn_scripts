@@ -1,0 +1,2 @@
+cd BumblePl
+call autoexec

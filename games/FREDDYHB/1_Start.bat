@@ -1,0 +1,2 @@
+cd FredHard
+freddy2

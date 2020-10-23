@@ -1,0 +1,2 @@
+cd VooDooLu
+START.BAT

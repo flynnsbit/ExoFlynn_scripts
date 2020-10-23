@@ -1,0 +1,2 @@
+cd Rotox
+rotox

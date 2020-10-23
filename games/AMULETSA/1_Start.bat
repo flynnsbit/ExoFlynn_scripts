@@ -1,0 +1,2 @@
+cd amularm
+call run

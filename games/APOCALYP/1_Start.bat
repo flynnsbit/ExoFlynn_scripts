@@ -1,0 +1,2 @@
+cd Apocalyp
+call cow

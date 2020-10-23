@@ -1,0 +1,2 @@
+cd FaceOff!
+call run

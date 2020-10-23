@@ -1,0 +1,2 @@
+cd brimston
+call brimstne

@@ -1,0 +1,2 @@
+cd PCGammon
+PCGAMMON W

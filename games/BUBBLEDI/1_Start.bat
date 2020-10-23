@@ -1,0 +1,2 @@
+cd BubbleDi
+bubble.exe

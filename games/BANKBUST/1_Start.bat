@@ -1,0 +1,2 @@
+cd BankBust
+call play

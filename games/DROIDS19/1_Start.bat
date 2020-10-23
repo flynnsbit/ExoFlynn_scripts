@@ -1,0 +1,2 @@
+cd droids
+call runme

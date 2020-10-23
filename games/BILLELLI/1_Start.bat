@@ -1,0 +1,2 @@
+cd BillElli
+call run

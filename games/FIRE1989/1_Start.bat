@@ -1,0 +1,2 @@
+cd Fire
+fire e

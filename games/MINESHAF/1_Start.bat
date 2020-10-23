@@ -1,0 +1,2 @@
+cd MineShaf
+MINESHAF

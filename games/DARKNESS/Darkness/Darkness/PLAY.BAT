@@ -1,0 +1,3 @@
+@LOGO
+@INTRO
+@DARKNESS 1 2 3 4

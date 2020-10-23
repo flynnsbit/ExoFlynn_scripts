@@ -1,0 +1,2 @@
+cd Pushover
+call run

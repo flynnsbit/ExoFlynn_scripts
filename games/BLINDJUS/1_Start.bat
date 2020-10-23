@@ -1,0 +1,2 @@
+cd blind
+call justice

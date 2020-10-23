@@ -1,0 +1,2 @@
+cd SantaPar
+call go

@@ -1,0 +1,2 @@
+cd Trubis
+TRUB.EXE

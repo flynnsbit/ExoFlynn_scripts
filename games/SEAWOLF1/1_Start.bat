@@ -1,0 +1,2 @@
+cd Seawolf
+call runme

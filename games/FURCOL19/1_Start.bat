@@ -1,0 +1,2 @@
+cd Furcol
+call run

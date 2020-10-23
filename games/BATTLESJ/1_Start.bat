@@ -1,0 +1,2 @@
+cd BATLSTAR
+call run

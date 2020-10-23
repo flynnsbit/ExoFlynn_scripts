@@ -1,0 +1,2 @@
+cd Schoolho
+call school

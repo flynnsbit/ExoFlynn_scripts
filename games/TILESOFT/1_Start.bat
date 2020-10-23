@@ -1,0 +1,2 @@
+cd tiledrag
+call start

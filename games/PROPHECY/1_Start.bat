@@ -1,0 +1,2 @@
+cd prophsha
+call run

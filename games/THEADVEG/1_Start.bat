@@ -1,0 +1,2 @@
+cd AdvLance
+adv

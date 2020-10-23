@@ -1,0 +1,2 @@
+cd WildWest
+call www

@@ -1,0 +1,2 @@
+cd LazBeamW
+lazer

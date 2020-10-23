@@ -1,0 +1,2 @@
+cd pepper
+call run

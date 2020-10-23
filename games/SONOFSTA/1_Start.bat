@@ -1,0 +1,2 @@
+cd SonofSta
+call sos

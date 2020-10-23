@@ -1,0 +1,2 @@
+cd Corsario
+corsario

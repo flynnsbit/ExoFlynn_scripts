@@ -1,0 +1,2 @@
+cd Epidemic
+call autoexec

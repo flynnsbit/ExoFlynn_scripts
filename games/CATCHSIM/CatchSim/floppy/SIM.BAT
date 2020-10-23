@@ -1,0 +1,2 @@
+Chdir A:\
+SIMONA.EXE

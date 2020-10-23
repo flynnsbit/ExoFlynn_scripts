@@ -1,0 +1,14 @@
+midiform arkover.mdi original\arkover.mid
+midiform arkstrt.mdi original\arkstrt.mid
+midiform boss.mdi original\boss.mid
+midiform bossend.mdi original\bossend.mid
+midiform gameover.mdi original\gameover.mid
+midiform gcomp1.mdi original\gcomp1.mid
+midiform gcomp2.mdi original\gcomp2.mid
+midiform gcomp3.mdi original\gcomp3.mid
+midiform hint.mdi original\hint.mid
+midiform hiscore.mdi original\hiscore.mid
+midiform rain2fin.mdi original\rain2fin.mid
+midiform title.mdi original\title.mid
+midiform titlefst.mdi original\titlefst.mid
+midiform map.mdi original\map.mid

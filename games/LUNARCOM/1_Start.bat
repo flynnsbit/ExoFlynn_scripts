@@ -1,0 +1,2 @@
+cd lunacomm
+lc

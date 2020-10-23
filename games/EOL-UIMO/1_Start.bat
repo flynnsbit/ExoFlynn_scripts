@@ -1,0 +1,2 @@
+cd EoluiM
+call eol

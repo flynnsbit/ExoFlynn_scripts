@@ -1,0 +1,2 @@
+cd SkateorD
+skate

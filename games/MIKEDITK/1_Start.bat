@@ -1,0 +1,2 @@
+cd MikeDitk
+call run

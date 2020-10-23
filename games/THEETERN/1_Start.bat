@@ -1,0 +1,2 @@
+cd eternadv
+call tealocal

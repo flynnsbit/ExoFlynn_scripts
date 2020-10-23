@@ -1,0 +1,2 @@
+cd Rampcube
+rampcube

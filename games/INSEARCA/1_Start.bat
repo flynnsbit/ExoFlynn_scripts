@@ -1,0 +1,2 @@
+cd ismat
+call start

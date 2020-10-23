@@ -1,0 +1,2 @@
+cd ostealth
+call run

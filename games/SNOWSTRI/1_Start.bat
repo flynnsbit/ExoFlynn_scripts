@@ -1,0 +1,2 @@
+cd Snowstri
+call runme

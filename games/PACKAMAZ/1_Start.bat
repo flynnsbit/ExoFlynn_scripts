@@ -1,0 +1,2 @@
+cd Packmaze
+PACAMAZE

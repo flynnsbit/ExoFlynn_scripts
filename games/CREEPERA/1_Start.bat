@@ -1,0 +1,2 @@
+cd crepxmas
+call run

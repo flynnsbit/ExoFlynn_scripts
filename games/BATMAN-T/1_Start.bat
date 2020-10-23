@@ -1,0 +1,2 @@
+cd batmancc
+call run

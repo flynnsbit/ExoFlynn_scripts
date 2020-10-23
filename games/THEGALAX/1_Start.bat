@@ -1,0 +1,2 @@
+cd TheGala
+call galaxian

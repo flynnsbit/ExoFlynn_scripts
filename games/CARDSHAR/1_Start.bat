@@ -1,0 +1,2 @@
+cd cardshks
+cards

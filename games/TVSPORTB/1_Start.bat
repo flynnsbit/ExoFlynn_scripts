@@ -1,0 +1,2 @@
+cd TVSBoxin
+call run

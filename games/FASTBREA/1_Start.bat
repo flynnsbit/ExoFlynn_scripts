@@ -1,0 +1,2 @@
+cd fastbrek
+call fb

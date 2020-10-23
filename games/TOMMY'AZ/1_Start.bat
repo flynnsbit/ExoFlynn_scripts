@@ -1,0 +1,2 @@
+cd tompala
+palace

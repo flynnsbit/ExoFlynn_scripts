@@ -1,0 +1,2 @@
+cd VidBJak
+call vbj

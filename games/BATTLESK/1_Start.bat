@@ -1,0 +1,2 @@
+cd BSTAR2
+BSTAR2SW

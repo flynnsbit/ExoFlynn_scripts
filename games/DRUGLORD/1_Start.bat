@@ -1,0 +1,2 @@
+cd druglord
+druglord

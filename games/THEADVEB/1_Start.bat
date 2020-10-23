@@ -1,0 +1,2 @@
+cd aoalice
+call alice

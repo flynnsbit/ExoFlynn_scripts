@@ -1,0 +1,2 @@
+cd PoksoB
+call run

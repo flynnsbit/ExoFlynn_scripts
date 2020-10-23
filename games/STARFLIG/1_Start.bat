@@ -1,0 +1,2 @@
+cd starfly
+call run

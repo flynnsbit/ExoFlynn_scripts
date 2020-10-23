@@ -1,0 +1,1 @@
+picture D:\ENGLISH.PDI\WESTERN

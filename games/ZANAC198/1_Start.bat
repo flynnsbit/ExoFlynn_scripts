@@ -1,0 +1,2 @@
+cd Zanac
+zanac

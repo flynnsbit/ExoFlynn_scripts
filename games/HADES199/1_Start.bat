@@ -1,0 +1,2 @@
+cd Hades
+call run

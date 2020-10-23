@@ -1,0 +1,2 @@
+cd WW2AirFo
+AFCWW2

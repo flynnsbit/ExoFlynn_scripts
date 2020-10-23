@@ -1,0 +1,2 @@
+cd Gertrude
+call gs

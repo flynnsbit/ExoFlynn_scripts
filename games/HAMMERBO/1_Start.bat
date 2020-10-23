@@ -1,0 +1,2 @@
+cd HammerBo
+DINAMIC

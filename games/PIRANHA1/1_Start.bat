@@ -1,0 +1,2 @@
+cd Piranha
+call start

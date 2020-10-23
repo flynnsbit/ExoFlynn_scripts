@@ -1,0 +1,2 @@
+cd odykent
+call run

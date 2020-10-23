@@ -1,0 +1,2 @@
+cd BioMenac
+call run

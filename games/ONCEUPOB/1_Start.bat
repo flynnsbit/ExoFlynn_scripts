@@ -1,0 +1,2 @@
+cd ouatbaba
+call goc

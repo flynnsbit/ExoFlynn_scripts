@@ -1,0 +1,2 @@
+cd finbatt
+tfb /e

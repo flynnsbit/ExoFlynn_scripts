@@ -1,0 +1,2 @@
+cd FunNGame
+call run

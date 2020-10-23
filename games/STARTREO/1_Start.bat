@@ -1,0 +1,2 @@
+cd sttrans
+call trek

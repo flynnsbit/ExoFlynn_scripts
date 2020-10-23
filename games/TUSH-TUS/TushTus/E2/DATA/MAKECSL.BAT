@@ -1,0 +1,1 @@
+@FOR %%X IN (*.FLC) DO CALL FLIC2CSL %%X >NUL

@@ -1,0 +1,2 @@
+cd RexBladA
+call run

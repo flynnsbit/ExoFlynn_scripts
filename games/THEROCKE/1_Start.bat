@@ -1,0 +1,2 @@
+cd TheRocke
+call run

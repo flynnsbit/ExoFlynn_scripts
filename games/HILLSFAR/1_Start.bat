@@ -1,0 +1,2 @@
+cd hillsfar
+call run

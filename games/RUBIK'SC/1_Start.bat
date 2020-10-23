@@ -1,0 +1,2 @@
+cd RubiksC
+call runme

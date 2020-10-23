@@ -1,0 +1,2 @@
+cd TDMsTrac
+call local

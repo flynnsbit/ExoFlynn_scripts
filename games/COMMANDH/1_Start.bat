@@ -1,0 +1,2 @@
+cd commhq
+call run

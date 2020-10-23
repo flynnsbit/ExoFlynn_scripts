@@ -1,0 +1,2 @@
+cd Torus
+TORUS.EXE

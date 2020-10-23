@@ -1,0 +1,2 @@
+cd combots
+call runme

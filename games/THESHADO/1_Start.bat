@@ -1,0 +1,2 @@
+cd shadyser
+call run

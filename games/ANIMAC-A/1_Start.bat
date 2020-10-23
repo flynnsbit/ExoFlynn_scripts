@@ -1,0 +1,2 @@
+cd ANIMAC
+call run

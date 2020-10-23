@@ -1,0 +1,2 @@
+cd Scubaman
+scuba

@@ -1,0 +1,2 @@
+cd BSASWres
+call BODYSLAM

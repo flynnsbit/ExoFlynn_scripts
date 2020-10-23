@@ -1,0 +1,5 @@
+ECHO OFF
+game.exe
+CD ..
+PAINTBRAWL
+

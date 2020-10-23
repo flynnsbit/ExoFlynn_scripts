@@ -1,0 +1,2 @@
+@ECHO OFF
+MAX d GEWINNE

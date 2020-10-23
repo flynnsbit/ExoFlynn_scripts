@@ -1,0 +1,2 @@
+cd Zorlim
+zav

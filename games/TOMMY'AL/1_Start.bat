@@ -1,0 +1,2 @@
+cd TommysLi
+lifts

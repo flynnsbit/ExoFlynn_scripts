@@ -1,0 +1,11 @@
+@echo off
+IF NOT EXIST PIRANHA.CFG goto dosetup1
+IF NOT EXIST SOUND.CFG goto dosetup1
+GOTO skip1
+:dosetup1
+CALL SETUP.EXE /ALL
+IF ERRORLEVEL 1 goto skip2
+:skip1
+CALL SETUP.EXE /CHECK
+MAIN.EXE
+:skip2

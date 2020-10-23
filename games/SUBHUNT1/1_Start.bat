@@ -1,0 +1,2 @@
+cd Subhunt
+call run

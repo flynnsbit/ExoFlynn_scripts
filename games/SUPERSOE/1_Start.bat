@@ -1,0 +1,2 @@
+cd SSMR
+SSR

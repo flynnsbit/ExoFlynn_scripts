@@ -1,0 +1,4 @@
+COPY *.EXE C:
+COPY *.BLD C:
+COPY *.DAT C:
+

@@ -1,0 +1,2 @@
+cd Nmongo
+call negro

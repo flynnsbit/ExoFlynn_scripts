@@ -1,0 +1,2 @@
+cd TetrisCl
+call run

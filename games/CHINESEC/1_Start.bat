@@ -1,0 +1,2 @@
+cd chinchek
+CHINESE.EXE

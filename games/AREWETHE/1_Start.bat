@@ -1,0 +1,2 @@
+cd awty
+call run

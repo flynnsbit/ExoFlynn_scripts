@@ -1,0 +1,2 @@
+cd brickwar
+BRICKWAR

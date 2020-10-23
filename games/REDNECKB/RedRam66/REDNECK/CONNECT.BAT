@@ -1,0 +1,3 @@
+IPXNET CONNECT %1
+setup.exe
+EXIT

@@ -1,0 +1,2 @@
+cd yumemi
+call run

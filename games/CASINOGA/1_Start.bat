@@ -1,0 +1,2 @@
+cd CasinoGa
+call runme

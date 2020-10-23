@@ -1,0 +1,2 @@
+cd ANightWi
+call troi

@@ -1,0 +1,2 @@
+cd soclayc
+call game

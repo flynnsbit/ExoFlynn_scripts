@@ -1,0 +1,2 @@
+cd shiftrix
+call shiftrix

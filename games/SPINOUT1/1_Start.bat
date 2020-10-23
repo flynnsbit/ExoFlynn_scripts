@@ -1,0 +1,2 @@
+cd Spinout
+call spin

@@ -1,0 +1,2 @@
+cd Tikkasen
+TIKKA3

@@ -1,0 +1,2 @@
+cd madpara
+call start

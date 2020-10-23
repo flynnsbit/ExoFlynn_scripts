@@ -1,0 +1,2 @@
+cd Vivi90
+VIVI.EXE

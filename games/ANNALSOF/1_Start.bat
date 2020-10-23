@@ -1,0 +1,2 @@
+cd annarome
+call ar

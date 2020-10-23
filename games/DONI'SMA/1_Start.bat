@@ -1,0 +1,2 @@
+cd DoniMaze
+call go

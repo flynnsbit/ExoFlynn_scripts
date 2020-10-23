@@ -1,0 +1,2 @@
+cd Gstones
+gems3

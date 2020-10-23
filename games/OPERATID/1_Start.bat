@@ -1,0 +1,2 @@
+cd opcombat
+combat

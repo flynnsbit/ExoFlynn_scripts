@@ -1,0 +1,2 @@
+cd dotso
+dotso

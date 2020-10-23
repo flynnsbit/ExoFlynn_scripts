@@ -1,0 +1,2 @@
+cd mastwon
+call run

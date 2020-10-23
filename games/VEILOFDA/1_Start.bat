@@ -1,0 +1,2 @@
+cd veildark
+call run

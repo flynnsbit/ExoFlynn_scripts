@@ -1,0 +1,2 @@
+cd Silpheed
+call run

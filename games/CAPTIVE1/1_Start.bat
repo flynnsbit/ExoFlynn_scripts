@@ -1,0 +1,2 @@
+cd captiver
+call captive

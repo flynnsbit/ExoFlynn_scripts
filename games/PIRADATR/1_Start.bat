@@ -1,0 +1,2 @@
+cd PiradaTF
+call run

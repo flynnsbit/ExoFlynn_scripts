@@ -1,0 +1,2 @@
+cd Fencing
+fencing

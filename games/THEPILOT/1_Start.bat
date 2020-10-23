@@ -1,0 +1,2 @@
+cd PilotorA
+call pilot

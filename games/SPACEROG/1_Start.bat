@@ -1,0 +1,2 @@
+cd spacrogu
+sr

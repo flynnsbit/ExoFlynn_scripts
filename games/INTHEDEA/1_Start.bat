@@ -1,0 +1,2 @@
+cd deadnite
+don

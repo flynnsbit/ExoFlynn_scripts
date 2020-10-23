@@ -1,0 +1,2 @@
+cd lancelot
+menu

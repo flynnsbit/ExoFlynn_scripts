@@ -1,0 +1,2 @@
+cd LineWars
+linewars

@@ -1,0 +1,2 @@
+cd Faraonik
+call FARAONIK

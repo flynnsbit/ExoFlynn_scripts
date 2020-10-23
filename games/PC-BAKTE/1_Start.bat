@@ -1,0 +1,2 @@
+cd PCBakte
+pcb /e

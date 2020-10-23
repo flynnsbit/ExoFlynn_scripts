@@ -1,0 +1,2 @@
+cd CrimeLab
+crimelab

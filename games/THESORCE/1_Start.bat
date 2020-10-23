@@ -1,0 +1,2 @@
+cd SorcAppr
+sierra

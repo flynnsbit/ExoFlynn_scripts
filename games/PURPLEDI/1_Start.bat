@@ -1,0 +1,2 @@
+cd PDinoM
+dino play

@@ -1,0 +1,2 @@
+cd BeetrisD
+BEETRIS3

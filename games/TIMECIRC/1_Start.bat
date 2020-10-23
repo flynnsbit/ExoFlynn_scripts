@@ -1,0 +1,2 @@
+cd tcircle
+call play

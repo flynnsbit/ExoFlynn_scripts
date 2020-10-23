@@ -1,0 +1,2 @@
+cd darkconv
+call dark

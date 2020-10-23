@@ -1,0 +1,2 @@
+cd civwart
+call civil

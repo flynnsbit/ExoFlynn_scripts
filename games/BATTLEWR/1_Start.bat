@@ -1,0 +1,2 @@
+cd BattleWr
+call run

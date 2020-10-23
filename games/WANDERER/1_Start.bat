@@ -1,0 +1,2 @@
+cd Wanderer
+call pick

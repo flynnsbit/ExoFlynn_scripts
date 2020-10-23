@@ -1,0 +1,2 @@
+cd Megaopol
+meg7

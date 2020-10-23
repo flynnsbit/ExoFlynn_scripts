@@ -1,0 +1,2 @@
+cd TriviaWh
+call run

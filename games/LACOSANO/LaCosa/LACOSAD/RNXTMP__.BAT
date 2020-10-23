@@ -1,0 +1,8 @@
+call nostra
+pause
+CD \
+
+
+
+
+

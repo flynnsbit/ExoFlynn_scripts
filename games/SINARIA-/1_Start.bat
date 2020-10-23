@@ -1,0 +1,2 @@
+cd Sinaria
+SINARIA

@@ -1,0 +1,2 @@
+cd TribTet
+TETRIS.EXE

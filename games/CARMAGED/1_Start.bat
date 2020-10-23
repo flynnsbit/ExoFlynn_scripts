@@ -1,0 +1,2 @@
+cd Carmaged
+call run

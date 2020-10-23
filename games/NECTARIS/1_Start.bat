@@ -1,0 +1,2 @@
+cd Nectaris
+call start

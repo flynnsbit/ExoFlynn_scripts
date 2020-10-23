@@ -1,0 +1,2 @@
+cd negwond
+wonder

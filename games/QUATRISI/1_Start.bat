@@ -1,0 +1,2 @@
+cd QuatrisG
+call QUATRIS

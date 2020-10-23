@@ -1,0 +1,2 @@
+cd BBearGtS
+call school

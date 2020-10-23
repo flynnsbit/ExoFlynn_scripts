@@ -1,0 +1,4 @@
+ECHO OFF
+CD PIT4
+PTERM %2 %1
+CD..

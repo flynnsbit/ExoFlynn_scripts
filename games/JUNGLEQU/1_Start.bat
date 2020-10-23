@@ -1,0 +1,2 @@
+cd JunQues
+call run

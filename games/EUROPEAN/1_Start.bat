@@ -1,0 +1,2 @@
+cd EuroCh
+call ec

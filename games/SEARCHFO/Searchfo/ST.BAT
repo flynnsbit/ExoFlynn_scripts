@@ -1,0 +1,12 @@
+ECHO OFF
+tanic
+:LOOP
+if ERRORLEVEL 1 GOTO EXIT
+phaseii
+if ERRORLEVEL 1 GOTO EXIT
+tanic 2
+GOTO LOOP
+cls
+REM Dos failure.
+:EXIT
+

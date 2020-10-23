@@ -1,0 +1,2 @@
+cd AtomTet
+atomtet

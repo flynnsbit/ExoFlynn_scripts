@@ -1,0 +1,2 @@
+cd kingtabl
+call run

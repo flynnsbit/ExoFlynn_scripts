@@ -1,0 +1,2 @@
+cd ThunZone
+tzone

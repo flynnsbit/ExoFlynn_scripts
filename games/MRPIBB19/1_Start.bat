@@ -1,0 +1,2 @@
+cd MrPibb
+call pibbgame

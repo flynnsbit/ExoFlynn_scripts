@@ -1,0 +1,2 @@
+cd Tracker
+call tracker

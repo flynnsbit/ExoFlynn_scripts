@@ -1,0 +1,3 @@
+ECHO OFF
+SET _DEBUG_=O
+CGO

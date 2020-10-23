@@ -1,0 +1,2 @@
+cd PacWorm
+call worm

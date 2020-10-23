@@ -1,0 +1,2 @@
+cd Kicks
+kicks

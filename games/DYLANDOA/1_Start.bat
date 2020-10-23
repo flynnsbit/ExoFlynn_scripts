@@ -1,0 +1,2 @@
+cd dylandog
+call run

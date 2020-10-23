@@ -1,0 +1,2 @@
+cd shrcj
+call sherlock

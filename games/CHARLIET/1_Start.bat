@@ -1,0 +1,2 @@
+cd Charliet
+call run

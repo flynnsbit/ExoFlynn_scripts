@@ -1,0 +1,2 @@
+cd USASoc94
+SOCCER

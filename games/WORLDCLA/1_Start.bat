@@ -1,0 +1,2 @@
+cd WCLB
+call run

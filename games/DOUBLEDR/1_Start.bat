@@ -1,0 +1,2 @@
+cd Ddragon
+call dragon

@@ -1,0 +1,2 @@
+cd scrooge
+scrooge

@@ -1,0 +1,2 @@
+cd CavesOfD
+run dyanty

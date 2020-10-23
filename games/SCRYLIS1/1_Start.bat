@@ -1,0 +1,2 @@
+cd scrylis
+SCRYLISV.EXE

@@ -1,0 +1,2 @@
+cd thecolo
+call colony

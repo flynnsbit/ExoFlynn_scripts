@@ -1,0 +1,2 @@
+cd Scrabble
+scrabble

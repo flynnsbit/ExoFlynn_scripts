@@ -1,0 +1,2 @@
+cd mediwarr
+WARRIORS

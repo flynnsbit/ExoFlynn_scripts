@@ -1,0 +1,2 @@
+cd BrainSPr
+bspro

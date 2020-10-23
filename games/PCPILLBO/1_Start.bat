@@ -1,0 +1,2 @@
+cd PCPillBx
+call pill

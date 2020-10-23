@@ -1,0 +1,2 @@
+cd chester
+chester1

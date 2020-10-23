@@ -1,0 +1,2 @@
+cd BattGS
+safari

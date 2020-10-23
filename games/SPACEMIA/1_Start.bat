@@ -1,0 +1,3 @@
+cd SpaceMi
+sound
+space

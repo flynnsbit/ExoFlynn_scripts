@@ -1,0 +1,2 @@
+cd BMF
+BMF

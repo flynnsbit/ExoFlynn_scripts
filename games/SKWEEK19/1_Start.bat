@@ -1,0 +1,2 @@
+cd Skweek
+skweek

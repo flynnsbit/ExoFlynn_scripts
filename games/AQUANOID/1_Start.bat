@@ -1,0 +1,2 @@
+cd Aquanoid
+call start

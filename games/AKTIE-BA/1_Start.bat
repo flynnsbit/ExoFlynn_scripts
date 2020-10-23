@@ -1,0 +1,2 @@
+cd Aktiabal
+call run

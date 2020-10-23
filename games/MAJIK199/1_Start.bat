@@ -1,0 +1,2 @@
+cd Majik
+majik

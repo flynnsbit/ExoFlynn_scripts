@@ -1,0 +1,2 @@
+cd F-Zero
+fzero

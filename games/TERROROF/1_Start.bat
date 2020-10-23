@@ -1,0 +1,2 @@
+cd Terrorof
+call run

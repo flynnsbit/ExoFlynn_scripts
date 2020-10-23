@@ -1,0 +1,3 @@
+cd trisdemo
+
+install

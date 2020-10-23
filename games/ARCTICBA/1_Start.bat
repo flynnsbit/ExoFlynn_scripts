@@ -1,0 +1,2 @@
+cd Transarc
+start

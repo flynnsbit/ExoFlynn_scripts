@@ -1,0 +1,2 @@
+cd amonra
+call run

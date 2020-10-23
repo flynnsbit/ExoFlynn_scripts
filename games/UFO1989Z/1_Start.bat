@@ -1,0 +1,2 @@
+cd UFO
+call ufo

@@ -1,0 +1,2 @@
+cd TheBully
+call run

@@ -1,0 +1,2 @@
+cd magnetic
+magnetic

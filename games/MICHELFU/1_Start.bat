@@ -1,0 +1,2 @@
+cd MichelFu
+call run

@@ -1,0 +1,2 @@
+cd Starquak
+call star

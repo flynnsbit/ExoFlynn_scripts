@@ -1,0 +1,2 @@
+cd MichaelJ
+call run

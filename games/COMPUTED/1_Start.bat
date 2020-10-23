@@ -1,0 +1,2 @@
+cd CompOper
+call OPERATOR

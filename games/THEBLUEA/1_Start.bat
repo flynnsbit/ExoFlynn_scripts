@@ -1,0 +1,2 @@
+cd BluBroJA
+call blues

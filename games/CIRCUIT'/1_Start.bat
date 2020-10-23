@@ -1,0 +1,2 @@
+cd cedge
+call run

@@ -1,0 +1,2 @@
+cd hkmahpro
+call run

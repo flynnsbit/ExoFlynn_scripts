@@ -1,0 +1,2 @@
+cd vida
+call vida

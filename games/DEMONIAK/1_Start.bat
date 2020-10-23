@@ -1,0 +1,2 @@
+cd demoniak
+call demoniak

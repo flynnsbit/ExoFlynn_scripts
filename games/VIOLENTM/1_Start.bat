@@ -1,0 +1,2 @@
+cd ViolMyth
+call play

@@ -1,0 +1,2 @@
+cd blakstar
+call run

@@ -1,0 +1,2 @@
+cd maddogw
+call run

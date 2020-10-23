@@ -1,0 +1,2 @@
+cd Qbert
+PCQBERT

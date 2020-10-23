@@ -1,0 +1,2 @@
+erase zerohour.bat
+setup

@@ -1,0 +1,2 @@
+cd sccypher
+call run

@@ -1,0 +1,2 @@
+cd CariStri
+call cs

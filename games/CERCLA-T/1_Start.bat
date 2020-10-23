@@ -1,0 +1,2 @@
+cd CerclaT
+call cercla

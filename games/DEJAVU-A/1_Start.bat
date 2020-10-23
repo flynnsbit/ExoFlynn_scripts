@@ -1,0 +1,2 @@
+cd DejaVu
+call runme

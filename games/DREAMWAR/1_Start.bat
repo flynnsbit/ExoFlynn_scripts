@@ -1,0 +1,2 @@
+cd DreamWar
+call go

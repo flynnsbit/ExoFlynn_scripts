@@ -1,0 +1,2 @@
+cd AdvTipi
+tipi

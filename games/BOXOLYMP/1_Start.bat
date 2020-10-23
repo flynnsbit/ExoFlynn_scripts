@@ -1,0 +1,2 @@
+cd BoxOlym
+call mainv

@@ -1,0 +1,2 @@
+cd SpyMast
+call run

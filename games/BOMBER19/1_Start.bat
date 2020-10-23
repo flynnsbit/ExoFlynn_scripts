@@ -1,0 +1,2 @@
+cd Bomber
+bomber

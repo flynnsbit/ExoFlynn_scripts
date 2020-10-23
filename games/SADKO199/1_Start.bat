@@ -1,0 +1,2 @@
+cd sadko
+SADKO.EXE

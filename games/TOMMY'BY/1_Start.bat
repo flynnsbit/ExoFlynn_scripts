@@ -1,0 +1,2 @@
+cd Twhist
+WHIST

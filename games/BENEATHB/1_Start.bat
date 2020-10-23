@@ -1,0 +1,2 @@
+cd appman
+apple

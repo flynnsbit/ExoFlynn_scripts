@@ -1,0 +1,3 @@
+@ECHO OFF
+SET DOS4GVM=
+DOSSETUP %1 %2 %3 %4 %5 %6 

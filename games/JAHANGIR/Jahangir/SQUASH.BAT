@@ -1,0 +1,3 @@
+@ECHO OFF
+SQUASH.EXE 
+ECHO Das wars.

@@ -1,0 +1,2 @@
+cd wscs
+call run

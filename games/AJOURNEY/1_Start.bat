@@ -1,0 +1,2 @@
+cd Jxanth
+call xanth

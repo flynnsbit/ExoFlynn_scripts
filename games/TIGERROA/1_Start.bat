@@ -1,0 +1,2 @@
+cd TigerRo
+game e

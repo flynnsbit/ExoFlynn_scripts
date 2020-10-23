@@ -1,0 +1,2 @@
+cd laserlit
+Ll.exe

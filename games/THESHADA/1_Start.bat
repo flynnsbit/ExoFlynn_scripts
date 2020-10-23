@@ -1,0 +1,2 @@
+cd somordor
+som

@@ -1,0 +1,2 @@
+cd CBckGam
+call cbo

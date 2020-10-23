@@ -1,0 +1,2 @@
+cd tromed
+call run

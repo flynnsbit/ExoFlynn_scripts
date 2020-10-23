@@ -1,0 +1,2 @@
+cd Everday
+EVERYDAY

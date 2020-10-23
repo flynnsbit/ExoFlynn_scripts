@@ -1,0 +1,2 @@
+cd Resurrec
+call run

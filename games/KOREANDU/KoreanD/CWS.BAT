@@ -1,0 +1,2 @@
+@MANUAL
+@CWSGAME

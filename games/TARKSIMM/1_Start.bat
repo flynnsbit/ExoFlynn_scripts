@@ -1,0 +1,2 @@
+cd TarkSimm
+call tark

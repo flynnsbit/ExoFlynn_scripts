@@ -1,0 +1,2 @@
+cd Glook
+glook

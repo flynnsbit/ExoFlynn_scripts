@@ -1,0 +1,4 @@
+@ECHO OFF
+ CD MAIN
+ SRANGERS.EXE
+ CD ..

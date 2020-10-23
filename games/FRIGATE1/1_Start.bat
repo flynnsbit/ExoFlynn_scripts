@@ -1,0 +1,2 @@
+cd frigate
+frigate

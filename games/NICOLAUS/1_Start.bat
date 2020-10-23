@@ -1,0 +1,2 @@
+cd Nicolaus
+call nico

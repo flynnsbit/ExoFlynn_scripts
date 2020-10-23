@@ -1,0 +1,2 @@
+cd chrismat
+CHRMAMUP.EXE

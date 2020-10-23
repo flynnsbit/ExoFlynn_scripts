@@ -1,0 +1,2 @@
+cd JsFireW
+firwitch

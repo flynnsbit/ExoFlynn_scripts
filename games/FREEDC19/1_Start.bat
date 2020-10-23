@@ -1,0 +1,2 @@
+cd freedc
+freedc

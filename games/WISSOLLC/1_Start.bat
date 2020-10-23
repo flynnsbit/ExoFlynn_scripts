@@ -1,0 +1,2 @@
+cd Wissoll
+call game

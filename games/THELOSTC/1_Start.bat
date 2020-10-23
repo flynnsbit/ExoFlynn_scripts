@@ -1,0 +1,2 @@
+cd crownqa
+game

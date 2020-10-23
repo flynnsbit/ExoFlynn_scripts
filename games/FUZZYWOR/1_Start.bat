@@ -1,0 +1,2 @@
+cd FuzzWorm
+worm

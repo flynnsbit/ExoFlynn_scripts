@@ -1,0 +1,2 @@
+cd hiredgun
+call run

@@ -1,0 +1,2 @@
+cd CaptainP
+call game

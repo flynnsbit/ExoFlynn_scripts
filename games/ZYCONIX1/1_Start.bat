@@ -1,0 +1,3 @@
+cd Zyconix
+patch
+ZYCONIX

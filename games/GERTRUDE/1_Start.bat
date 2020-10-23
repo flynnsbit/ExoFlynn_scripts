@@ -1,0 +1,2 @@
+cd GertPuz
+call go

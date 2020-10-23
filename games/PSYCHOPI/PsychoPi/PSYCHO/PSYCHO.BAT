@@ -1,0 +1,4 @@
+@echo off
+SET BLASTER=A220 I7 D1
+_P_.EXE
+

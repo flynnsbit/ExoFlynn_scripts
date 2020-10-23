@@ -1,0 +1,2 @@
+cd CRWMeJa
+call run

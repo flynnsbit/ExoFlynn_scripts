@@ -1,0 +1,2 @@
+cd Computer
+call autoexec

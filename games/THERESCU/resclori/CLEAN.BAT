@@ -1,0 +1,2 @@
+DEL SAV*.*
+DEL PARTY.DTA

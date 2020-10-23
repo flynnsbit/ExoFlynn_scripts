@@ -1,0 +1,2 @@
+cd soltys
+call run

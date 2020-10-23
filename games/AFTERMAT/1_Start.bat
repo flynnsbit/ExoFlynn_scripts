@@ -1,0 +1,2 @@
+cd AofAD
+call DISASTER

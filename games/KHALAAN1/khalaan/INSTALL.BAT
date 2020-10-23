@@ -1,0 +1,17 @@
+ECHO OFF
+REM *********
+%1:
+REM *********
+CD\
+MD KHALAAN
+CD \KHALAAN
+MD EGA
+CD \KHALAAN
+COPY A:\HD.BAT
+CLS
+HD
+
+
+
+
+

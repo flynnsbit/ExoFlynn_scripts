@@ -1,0 +1,2 @@
+cd Mini-Put
+mp

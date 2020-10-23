@@ -1,0 +1,2 @@
+cd beast
+beast

@@ -1,0 +1,2 @@
+cd Automon
+mon41

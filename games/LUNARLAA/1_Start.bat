@@ -1,0 +1,2 @@
+cd LunLand
+call LUNAR

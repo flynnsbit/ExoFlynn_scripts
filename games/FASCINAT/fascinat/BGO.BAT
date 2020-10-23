@@ -1,0 +1,2 @@
+loader vga mouse slowcd
+

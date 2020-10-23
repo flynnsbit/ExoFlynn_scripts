@@ -1,0 +1,3 @@
+cd MariosTM
+soundrv
+mario

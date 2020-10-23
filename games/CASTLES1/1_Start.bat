@@ -1,0 +1,2 @@
+cd castles
+call run

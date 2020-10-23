@@ -1,0 +1,2 @@
+cd hampman
+manor

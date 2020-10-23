@@ -1,0 +1,2 @@
+cd RotTDW
+call run

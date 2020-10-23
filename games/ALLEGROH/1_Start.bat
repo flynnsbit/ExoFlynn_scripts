@@ -1,0 +1,2 @@
+cd AllegHak
+nethack

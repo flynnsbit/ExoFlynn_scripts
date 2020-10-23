@@ -1,0 +1,2 @@
+cd CosmicCr
+cosmic

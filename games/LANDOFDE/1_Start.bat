@@ -1,0 +1,2 @@
+cd LandODev
+call run

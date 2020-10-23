@@ -1,0 +1,2 @@
+cd Zapem
+call runme

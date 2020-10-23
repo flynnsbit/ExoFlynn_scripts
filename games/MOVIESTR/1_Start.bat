@@ -1,0 +1,2 @@
+cd MoviTriv
+call go

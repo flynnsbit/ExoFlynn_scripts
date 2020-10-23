@@ -1,0 +1,2 @@
+cd SketShot
+call skeet

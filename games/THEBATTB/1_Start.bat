@@ -1,0 +1,2 @@
+cd bbtits
+call autoexec

@@ -1,0 +1,2 @@
+cd BuzzardB
+buzz

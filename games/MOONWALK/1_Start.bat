@@ -1,0 +1,2 @@
+cd Moonwalk
+mw e

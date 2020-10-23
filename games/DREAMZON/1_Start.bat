@@ -1,0 +1,2 @@
+cd dremzone
+call dz

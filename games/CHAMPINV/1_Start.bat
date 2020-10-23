@@ -1,0 +1,3 @@
+cd CHAMPInv
+cd CHAMP
+call INVADERS

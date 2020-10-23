@@ -1,0 +1,2 @@
+cd discist
+call start

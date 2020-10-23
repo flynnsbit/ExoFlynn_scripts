@@ -1,0 +1,7 @@
+@C:\DOS\SMARTDRV.EXE /X
+@ECHO OFF
+PROMPT $p$g
+PATH C:\DOS
+SET TEMP=C:\DOS
+cd 1
+hlstart

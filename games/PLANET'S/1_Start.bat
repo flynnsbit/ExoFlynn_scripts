@@ -1,0 +1,2 @@
+cd planedge
+call run

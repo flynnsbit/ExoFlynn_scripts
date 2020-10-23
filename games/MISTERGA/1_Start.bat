@@ -1,0 +1,2 @@
+cd MsterGas
+DISK.EXE

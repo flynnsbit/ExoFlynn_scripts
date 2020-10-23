@@ -1,0 +1,2 @@
+cd SkyJagua
+skyjguar.exe

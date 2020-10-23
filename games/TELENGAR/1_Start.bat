@@ -1,0 +1,2 @@
+cd telegard
+telen

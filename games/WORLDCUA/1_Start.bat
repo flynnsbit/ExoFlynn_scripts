@@ -1,0 +1,2 @@
+cd WCupATG
+ALLTIME.EXE

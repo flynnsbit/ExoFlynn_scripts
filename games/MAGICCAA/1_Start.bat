@@ -1,0 +1,2 @@
+cd MagCarp
+call run

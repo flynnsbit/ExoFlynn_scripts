@@ -1,0 +1,3 @@
+cd Stickybe
+sblaster
+town

@@ -1,0 +1,2 @@
+cd blntchrn
+call run

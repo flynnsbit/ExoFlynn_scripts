@@ -1,0 +1,2 @@
+cd SkyRunne
+call runner

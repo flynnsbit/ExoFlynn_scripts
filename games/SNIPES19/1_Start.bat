@@ -1,0 +1,2 @@
+cd Snipes
+snipe

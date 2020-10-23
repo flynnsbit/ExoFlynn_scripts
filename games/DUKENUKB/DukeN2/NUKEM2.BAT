@@ -1,0 +1,2 @@
+@cd \DUKE2
+@NUKEM2

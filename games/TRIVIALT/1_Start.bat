@@ -1,0 +1,2 @@
+cd TrivTrek
+TRIVTREK

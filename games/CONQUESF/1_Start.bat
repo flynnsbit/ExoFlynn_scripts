@@ -1,0 +1,2 @@
+cd camelot
+call run

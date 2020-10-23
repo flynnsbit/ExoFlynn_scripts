@@ -1,0 +1,2 @@
+cd eakids\theater
+eakids

@@ -1,0 +1,2 @@
+WARLORD2.EXE
+exit

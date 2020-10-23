@@ -1,0 +1,2 @@
+cd galaglad
+call GALACTIC

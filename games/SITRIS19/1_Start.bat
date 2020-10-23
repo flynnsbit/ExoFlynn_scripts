@@ -1,0 +1,2 @@
+cd SITris
+sitris

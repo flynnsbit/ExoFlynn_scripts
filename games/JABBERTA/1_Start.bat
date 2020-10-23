@@ -1,0 +1,2 @@
+cd Jabberta
+call autoexec

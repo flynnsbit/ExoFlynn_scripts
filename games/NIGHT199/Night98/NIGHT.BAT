@@ -1,0 +1,4 @@
+@ECHO OFF
+CD NIGHT
+NIGHT
+

@@ -1,0 +1,2 @@
+cd bondkill
+call start

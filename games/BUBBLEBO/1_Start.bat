@@ -1,0 +1,2 @@
+cd BubbBobb
+call run

@@ -1,0 +1,2 @@
+cd bmaster
+call run

@@ -1,0 +1,2 @@
+cd th!nk
+tc

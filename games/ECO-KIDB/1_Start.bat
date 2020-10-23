@@ -1,0 +1,2 @@
+cd EcoKidR
+call eco

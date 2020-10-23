@@ -1,0 +1,2 @@
+cd DarwinIs
+dar

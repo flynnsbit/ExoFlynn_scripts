@@ -1,0 +1,2 @@
+cd Solitare
+solitare

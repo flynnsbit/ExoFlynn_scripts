@@ -1,0 +1,2 @@
+cd UpThWall
+UPWALL.EXE

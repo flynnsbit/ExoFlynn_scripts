@@ -1,0 +1,2 @@
+cd CompNCS
+call start

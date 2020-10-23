@@ -1,0 +1,2 @@
+cd kentris
+call run

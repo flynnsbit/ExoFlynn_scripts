@@ -1,0 +1,2 @@
+cd Labyrint
+call lab

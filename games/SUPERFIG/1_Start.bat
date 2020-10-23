@@ -1,0 +1,2 @@
+cd SuperFig
+call run

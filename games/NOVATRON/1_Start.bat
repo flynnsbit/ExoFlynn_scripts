@@ -1,0 +1,2 @@
+cd Novatron
+novatron

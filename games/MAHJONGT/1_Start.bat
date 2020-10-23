@@ -1,0 +1,2 @@
+cd MahTet
+call mj

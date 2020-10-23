@@ -1,0 +1,2 @@
+cd Gargoyle
+call run

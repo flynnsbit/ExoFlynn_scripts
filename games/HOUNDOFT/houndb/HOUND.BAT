@@ -1,0 +1,5 @@
+ECHO OFF
+D:
+CD \EXEC
+DTVPLAY -CD 
+C:

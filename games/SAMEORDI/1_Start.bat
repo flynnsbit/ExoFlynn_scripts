@@ -1,0 +1,2 @@
+cd SameorDi
+SAMEDIF

@@ -1,0 +1,2 @@
+cd psychoif
+call runme

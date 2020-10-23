@@ -1,0 +1,2 @@
+cd NightMis
+pinball

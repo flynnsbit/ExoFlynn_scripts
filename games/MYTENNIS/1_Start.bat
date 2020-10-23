@@ -1,0 +1,2 @@
+cd MyTennis
+MYTENN.EXE

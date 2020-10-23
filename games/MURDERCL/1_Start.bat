@@ -1,0 +1,2 @@
+cd murdclub
+eclub

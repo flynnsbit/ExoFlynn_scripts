@@ -1,0 +1,2 @@
+cd bridgdlx
+call run

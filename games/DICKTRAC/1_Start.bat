@@ -1,0 +1,2 @@
+cd DickTrac
+call dick

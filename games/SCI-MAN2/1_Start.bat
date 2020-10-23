@@ -1,0 +1,2 @@
+cd SCI-MAN
+sciv
