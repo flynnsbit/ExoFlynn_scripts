@@ -1,8 +1,4 @@
 
-Total DOS Launcher
-##################
-
-
 .. contents::
 .. section-numbering::
 
