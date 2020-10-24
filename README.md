@@ -1,5 +1,5 @@
 
-Introduction
+MiSTer AO486 eXoDOS Update Scripts
 ============
 
 This is a collection of all 7002 eXoDOS game and program scripts used for launch and configuration.  This repo will be used to update launch and run files for maximum compatibility as games are tested on the MiSTer AO486 Core.
