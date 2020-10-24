@@ -1,8 +1,4 @@
 
-.. contents::
-.. section-numbering::
-
-
 Introduction
 ============
 
