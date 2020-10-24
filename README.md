@@ -12,4 +12,4 @@ There will be 4 scripts used to update your games collection launchers:
 
 3. On the AO486 side, an update script will be used to push any new launch scripts to your games collection and update the existing one.
 
-4. On the AO486 side, a script will be built to build a package to submit a Pull Request for any game changes you have made. Updates to games will be verified and added to this collection.  
+4. On the AO486 side, a script will be built to build a package to submit a Pull Request for any game script changes you have made manually so that we can submit those back to the community. Updates to games will be verified and added to this repo.  
